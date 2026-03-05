@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BTC 1H 예측 — v1.2</title>
+    <style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    background: #111827;
+    color: #e5e7eb;
+    padding: 20px;
+}
+h1 {
+    font-size: 1.5rem;
+    margin-bottom: 8px;
+    color: #f9fafb;
+}
+.stats, .info {
+    color: #9ca3af;
+    font-size: 0.9rem;
+    margin-bottom: 16px;
+}
+.stats span {
+    margin-right: 20px;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.85rem;
+}
+th {
+    background: #1f2937;
+    color: #9ca3af;
+    padding: 10px 8px;
+    text-align: center;
+    border-bottom: 2px solid #374151;
+    position: sticky;
+    top: 0;
+}
+td {
+    padding: 8px;
+    border-bottom: 1px solid #1f2937;
+}
+tr:hover {
+    background: #1f2937;
+}
+.updated {
+    color: #6b7280;
+    font-size: 0.75rem;
+    margin-top: 12px;
+    text-align: right;
+}
+.nav {
+    margin-bottom: 16px;
+}
+.nav a {
+    display: inline-block;
+    padding: 6px 16px;
+    margin-right: 8px;
+    margin-bottom: 6px;
+    border-radius: 6px;
+    text-decoration: none;
+    font-size: 0.85rem;
+    font-weight: bold;
+}
+.nav a.active {
+    background: #3b82f6;
+    color: #fff;
+}
+.nav a:not(.active) {
+    background: #1f2937;
+    color: #9ca3af;
+}
+</style>
+</head>
+<body>
+    <div class="nav"><a href="index.html">v1 예측</a>
+        <a href="pred_v1.1.html">v1.1 예측</a>
+        <a href="candles_1h.html">캔들 1H(스팟)</a>
+        <a href="candles_1h_futures.html">캔들 1H(선물)</a>
+        <a href="candles_1d.html">캔들 1D</a></div>
+    <h1>BTC 1H 예측 — v1.2</h1>
+    <div class="stats">
+        <span>검증 대기 중 (아직 대상봉 미도래)</span>
+        <span></span>
+    </div>
+    <table>
+        <thead>
+            <tr>
+                <th>예측시각</th>
+                <th>대상봉</th>
+                <th>시장</th>
+                <th>M1</th>
+                <th>M2</th>
+                <th>M3</th>
+                <th>앙상블</th>
+                <th>예측</th>
+                <th>시그널</th>
+                <th>가격</th>
+                <th>실제</th>
+                <th>적중</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+            <td>2026-03-05 17:01:19</td>
+            <td>2026-03-05 17:00~18:00</td>
+            <td style="text-align:center"><span style="color:#fbbf24;font-weight:bold">선물</span></td>
+            <td style="background:#1f2937;color:#f87171;text-align:center;font-weight:bold">DOWN 62%</td>
+            <td style="background:#1f2937;color:#f87171;text-align:center;font-weight:bold">DOWN 66%</td>
+            <td style="background:#1f2937;color:#6b7280;text-align:center;font-weight:bold">DOWN 57%</td>
+            <td style="background:#1f2937;color:#f87171;text-align:center;font-weight:bold">DOWN 61.7%</td>
+            <td style="color:#f87171;font-weight:bold;text-align:center">DOWN</td>
+            <td style="text-align:center"></td>
+            <td style="text-align:center">$72,026</td>
+            <td style="text-align:center"><span style="color:#9ca3af">대기</span></td>
+            <td style="text-align:center"></td>
+        </tr>
+<tr>
+            <td>2026-03-05 17:01:19</td>
+            <td>2026-03-05 17:00~18:00</td>
+            <td style="text-align:center"><span style="color:#60a5fa">스팟</span></td>
+            <td style="background:#1f2937;color:#f87171;text-align:center;font-weight:bold">DOWN 62%</td>
+            <td style="background:#1f2937;color:#f87171;text-align:center;font-weight:bold">DOWN 61%</td>
+            <td style="background:#1f2937;color:#6b7280;text-align:center;font-weight:bold">DOWN 58%</td>
+            <td style="background:#1f2937;color:#f87171;text-align:center;font-weight:bold">DOWN 60.3%</td>
+            <td style="color:#f87171;font-weight:bold;text-align:center">DOWN</td>
+            <td style="text-align:center"></td>
+            <td style="text-align:center">$72,056</td>
+            <td style="text-align:center"><span style="color:#9ca3af">대기</span></td>
+            <td style="text-align:center"></td>
+        </tr>
+        </tbody>
+    </table>
+    <p class="updated">마지막 업데이트: 2026-03-05 17:34:12</p>
+</body>
+</html>
