@@ -49,9 +49,33 @@
             margin-top: 12px;
             text-align: right;
         }
+        .nav {
+            margin-bottom: 16px;
+        }
+        .nav a {
+            display: inline-block;
+            padding: 6px 16px;
+            margin-right: 8px;
+            border-radius: 6px;
+            text-decoration: none;
+            font-size: 0.85rem;
+            font-weight: bold;
+        }
+        .nav a.active {
+            background: #3b82f6;
+            color: #fff;
+        }
+        .nav a:not(.active) {
+            background: #1f2937;
+            color: #9ca3af;
+        }
     </style>
 </head>
 <body>
+    <div class="nav">
+        <a href="index.html">예측</a>
+        <a href="candles.html" class="active">캔들</a>
+    </div>
     <h1>BTC 1H 캔들 기록 (스팟)</h1>
     <div class="info">최근 240개 완성 봉 | 미완성 봉 제외</div>
     <table>
@@ -2470,6 +2494,6 @@
         </tr>
         </tbody>
     </table>
-    <p class="updated">마지막 업데이트: 2026-03-05 10:45:06</p>
+    <p class="updated">마지막 업데이트: 2026-03-05 10:47:53</p>
 </body>
 </html>
