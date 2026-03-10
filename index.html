@@ -107,23 +107,18 @@ tr:hover { background: #1f2937 !important; }
     </div>
 <h1>v2 앵커 모델 요약</h1>
 
-    <div style="background:#111827;border:2px solid #22c55e;border-radius:8px;padding:16px;margin:16px 0">
+    <div style="background:#111827;border:2px solid #374151;border-radius:8px;padding:16px;margin:16px 0">
         <div style="display:flex;align-items:center;gap:12px">
-            <span style="font-size:2rem;font-weight:bold;color:#22c55e">3</span>
+            <span style="font-size:2rem;font-weight:bold;color:#6b7280">0</span>
             <div>
-                <span style="color:#22c55e;font-weight:bold;font-size:1.1rem">동시 시그널 (STRONG)</span>
+                <span style="color:#6b7280;font-weight:bold;font-size:1.1rem">동시 시그널 (NONE)</span>
                 <p style="color:#9ca3af;font-size:12px;margin:2px 0 0 0">primary 모델 임계치 돌파 config 수 (CV: 2개+→73%, 3개+→81%, 5개+→83%)</p>
             </div>
-        </div><p style="color:#d1d5db;font-size:12px;margin:8px 0 0 0"><span style="color:#93c5fd">move_0.05</span>, <span style="color:#93c5fd">move_0.2</span>, <span style="color:#93c5fd">bigbody_clip1</span></p>
+        </div>
     </div>
 
-    <div style="background:#1a1a2e;border:2px solid #fbbf24;border-radius:8px;padding:16px;margin:16px 0">
-        <h2 style="color:#fbbf24;margin:0 0 12px 0;font-size:1.1rem">교차 시그널 발동 (BUY)</h2>
-        <p style="color:#9ca3af;font-size:12px;margin:0 0 8px 0">두 config의 primary 모델이 동시에 80%+ → CV 기반 교차 승률</p>
-        <table style="margin:0">
-        <thead><tr><th>Config A</th><th></th><th>Config B</th><th>CV 승률</th><th>CV 건수</th><th>모델</th></tr></thead>
-        <tbody><tr><td style="font-weight:bold;color:#fbbf24">move_0.05 <span style="color:#6b7280;font-size:11px">(XGB 81%)</span></td><td style="text-align:center;color:#6b7280">&times;</td><td style="font-weight:bold;color:#fbbf24">move_0.2 <span style="color:#6b7280;font-size:11px">(XGB 83%)</span></td><td style="text-align:center;color:#22c55e;font-weight:bold;font-size:1.1rem">83.3%</td><td style="text-align:center;color:#9ca3af">24건</td><td style="text-align:center"><span style="color:#60a5fa;font-size:11px">fold5</span></td></tr></tbody>
-        </table>
+    <div style="background:#111827;border:1px solid #374151;border-radius:8px;padding:12px;margin:16px 0">
+        <p style="color:#6b7280;margin:0;font-size:0.9rem">교차 시그널: 없음 (두 config 동시 80%+ 미충족)</p>
     </div>
 <p class="stats">14개 config × fold5/full 최신 예측</p>
 <table>
@@ -135,361 +130,361 @@ tr:hover { background: #1f2937 !important; }
 <tbody>
 <tr style="cursor:pointer" onclick="location.href='v2_move_0.01.html'">
             <td style="font-weight:bold;color:#93c5fd">move_0.01<span style="color:#60a5fa;font-size:11px;margin-left:4px">fold5</span></td>
-            <td style="text-align:center">2026-03-10 23:00~00:00</td>
+            <td style="text-align:center">2026-03-11 00:00~01:00</td>
             <td style="text-align:center;color:#4ade80;font-weight:bold">UP</td>
-            <td style="text-align:center;color:#4ade80">69%</td>
-            <td style="text-align:center;color:#4ade80">70%</td>
-            <td style="text-align:center;color:#4ade80">57%</td>
+            <td style="text-align:center;color:#4ade80">58%</td>
+            <td style="text-align:center;color:#4ade80">51%</td>
+            <td style="text-align:center;color:#f87171">52%</td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
         </tr><tr style="cursor:pointer" onclick="location.href='v2_move_0.01.html'">
             <td style="font-weight:bold;color:#93c5fd">move_0.01<span style="color:#a78bfa;font-size:11px;margin-left:4px">full</span></td>
-            <td style="text-align:center">2026-03-10 23:00~00:00</td>
+            <td style="text-align:center">2026-03-11 00:00~01:00</td>
             <td style="text-align:center;color:#4ade80;font-weight:bold">UP</td>
-            <td style="text-align:center;color:#4ade80">66%</td>
-            <td style="text-align:center;color:#4ade80">61%</td>
-            <td style="text-align:center;color:#4ade80">55%</td>
+            <td style="text-align:center;color:#4ade80">54%</td>
+            <td style="text-align:center;color:#f87171">52%</td>
+            <td style="text-align:center;color:#4ade80">50%</td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
         </tr><tr style="cursor:pointer" onclick="location.href='v2_move_0.05.html'">
             <td style="font-weight:bold;color:#93c5fd">move_0.05<span style="color:#60a5fa;font-size:11px;margin-left:4px">fold5</span></td>
-            <td style="text-align:center">2026-03-10 23:00~00:00</td>
-            <td style="text-align:center;color:#4ade80;font-weight:bold">UP</td>
-            <td style="text-align:center;color:#4ade80">81%</td>
-            <td style="text-align:center;color:#4ade80">75%</td>
-            <td style="text-align:center;color:#4ade80">58%</td>
-            <td style="text-align:center"><span style="color:#4ade80;font-weight:bold">77%</span><span style="color:#6b7280;font-size:11px">/22</span></td>
+            <td style="text-align:center">2026-03-11 00:00~01:00</td>
+            <td style="text-align:center;color:#f87171;font-weight:bold">DOWN</td>
+            <td style="text-align:center;color:#4ade80">60%</td>
+            <td style="text-align:center;color:#f87171">51%</td>
+            <td style="text-align:center;color:#f87171">53%</td>
+            <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
         </tr><tr style="cursor:pointer" onclick="location.href='v2_move_0.05.html'">
             <td style="font-weight:bold;color:#93c5fd">move_0.05<span style="color:#a78bfa;font-size:11px;margin-left:4px">full</span></td>
-            <td style="text-align:center">2026-03-10 23:00~00:00</td>
-            <td style="text-align:center;color:#4ade80;font-weight:bold">UP</td>
-            <td style="text-align:center;color:#4ade80">63%</td>
-            <td style="text-align:center;color:#4ade80">66%</td>
-            <td style="text-align:center;color:#4ade80">56%</td>
+            <td style="text-align:center">2026-03-11 00:00~01:00</td>
+            <td style="text-align:center;color:#f87171;font-weight:bold">DOWN</td>
+            <td style="text-align:center;color:#f87171">53%</td>
+            <td style="text-align:center;color:#f87171">52%</td>
+            <td style="text-align:center;color:#f87171">52%</td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
         </tr><tr style="cursor:pointer" onclick="location.href='v2_move_0.1.html'">
             <td style="font-weight:bold;color:#93c5fd">move_0.1<span style="color:#60a5fa;font-size:11px;margin-left:4px">fold5</span></td>
-            <td style="text-align:center">2026-03-10 23:00~00:00</td>
+            <td style="text-align:center">2026-03-11 00:00~01:00</td>
             <td style="text-align:center;color:#4ade80;font-weight:bold">UP</td>
-            <td style="text-align:center;color:#4ade80">79%</td>
-            <td style="text-align:center;color:#4ade80">80%</td>
-            <td style="text-align:center;color:#4ade80">57%</td>
-            <td style="text-align:center"><span style="color:#4ade80;font-weight:bold">73%</span><span style="color:#6b7280;font-size:11px">/70</span></td>
+            <td style="text-align:center;color:#4ade80">60%</td>
+            <td style="text-align:center;color:#4ade80">64%</td>
+            <td style="text-align:center;color:#f87171">53%</td>
+            <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
         </tr><tr style="cursor:pointer" onclick="location.href='v2_move_0.1.html'">
             <td style="font-weight:bold;color:#93c5fd">move_0.1<span style="color:#a78bfa;font-size:11px;margin-left:4px">full</span></td>
-            <td style="text-align:center">2026-03-10 23:00~00:00</td>
-            <td style="text-align:center;color:#4ade80;font-weight:bold">UP</td>
-            <td style="text-align:center;color:#4ade80">61%</td>
-            <td style="text-align:center;color:#4ade80">67%</td>
-            <td style="text-align:center;color:#4ade80">56%</td>
+            <td style="text-align:center">2026-03-11 00:00~01:00</td>
+            <td style="text-align:center;color:#f87171;font-weight:bold">DOWN</td>
+            <td style="text-align:center;color:#f87171">53%</td>
+            <td style="text-align:center;color:#f87171">55%</td>
+            <td style="text-align:center;color:#f87171">52%</td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
         </tr><tr style="cursor:pointer" onclick="location.href='v2_move_0.2.html'">
             <td style="font-weight:bold;color:#93c5fd">move_0.2<span style="color:#60a5fa;font-size:11px;margin-left:4px">fold5</span></td>
-            <td style="text-align:center">2026-03-10 23:00~00:00</td>
+            <td style="text-align:center">2026-03-11 00:00~01:00</td>
             <td style="text-align:center;color:#4ade80;font-weight:bold">UP</td>
-            <td style="text-align:center;color:#4ade80">83%</td>
-            <td style="text-align:center;color:#4ade80">82%</td>
-            <td style="text-align:center;color:#4ade80">58%</td>
-            <td style="text-align:center"><span style="color:#4ade80;font-weight:bold">74%</span><span style="color:#6b7280;font-size:11px">/23</span></td>
+            <td style="text-align:center;color:#4ade80">51%</td>
+            <td style="text-align:center;color:#4ade80">64%</td>
+            <td style="text-align:center;color:#f87171">54%</td>
+            <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
         </tr><tr style="cursor:pointer" onclick="location.href='v2_move_0.2.html'">
             <td style="font-weight:bold;color:#93c5fd">move_0.2<span style="color:#a78bfa;font-size:11px;margin-left:4px">full</span></td>
-            <td style="text-align:center">2026-03-10 23:00~00:00</td>
+            <td style="text-align:center">2026-03-11 00:00~01:00</td>
             <td style="text-align:center;color:#4ade80;font-weight:bold">UP</td>
-            <td style="text-align:center;color:#4ade80">64%</td>
-            <td style="text-align:center;color:#4ade80">67%</td>
-            <td style="text-align:center;color:#4ade80">56%</td>
+            <td style="text-align:center;color:#4ade80">51%</td>
+            <td style="text-align:center;color:#4ade80">54%</td>
+            <td style="text-align:center;color:#f87171">52%</td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
         </tr><tr style="cursor:pointer" onclick="location.href='v2_move_0.5.html'">
             <td style="font-weight:bold;color:#93c5fd">move_0.5<span style="color:#60a5fa;font-size:11px;margin-left:4px">fold5</span></td>
-            <td style="text-align:center">2026-03-10 23:00~00:00</td>
-            <td style="text-align:center;color:#4ade80;font-weight:bold">UP</td>
-            <td style="text-align:center;color:#4ade80">78%</td>
-            <td style="text-align:center;color:#4ade80">79%</td>
-            <td style="text-align:center;color:#4ade80">61%</td>
-            <td style="text-align:center"><span style="color:#9ca3af;font-weight:bold">59%</span><span style="color:#6b7280;font-size:11px">/99</span></td>
+            <td style="text-align:center">2026-03-11 00:00~01:00</td>
+            <td style="text-align:center;color:#f87171;font-weight:bold">DOWN</td>
+            <td style="text-align:center;color:#4ade80">55%</td>
+            <td style="text-align:center;color:#f87171">51%</td>
+            <td style="text-align:center;color:#f87171">58%</td>
+            <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
         </tr><tr style="cursor:pointer" onclick="location.href='v2_move_0.5.html'">
             <td style="font-weight:bold;color:#93c5fd">move_0.5<span style="color:#a78bfa;font-size:11px;margin-left:4px">full</span></td>
-            <td style="text-align:center">2026-03-10 23:00~00:00</td>
-            <td style="text-align:center;color:#4ade80;font-weight:bold">UP</td>
-            <td style="text-align:center;color:#4ade80">70%</td>
-            <td style="text-align:center;color:#4ade80">64%</td>
-            <td style="text-align:center;color:#4ade80">60%</td>
+            <td style="text-align:center">2026-03-11 00:00~01:00</td>
+            <td style="text-align:center;color:#f87171;font-weight:bold">DOWN</td>
+            <td style="text-align:center;color:#4ade80">53%</td>
+            <td style="text-align:center;color:#f87171">53%</td>
+            <td style="text-align:center;color:#f87171">52%</td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
         </tr><tr style="cursor:pointer" onclick="location.href='v2_bigbody_clip01.html'">
             <td style="font-weight:bold;color:#93c5fd">bigbody_clip01<span style="color:#60a5fa;font-size:11px;margin-left:4px">fold5</span></td>
-            <td style="text-align:center">2026-03-10 23:00~00:00</td>
-            <td style="text-align:center;color:#4ade80;font-weight:bold">UP</td>
-            <td style="text-align:center;color:#4ade80">81%</td>
-            <td style="text-align:center;color:#4ade80">81%</td>
-            <td style="text-align:center;color:#4ade80">60%</td>
-            <td style="text-align:center"><span style="color:#4ade80;font-weight:bold">73%</span><span style="color:#6b7280;font-size:11px">/26</span></td>
+            <td style="text-align:center">2026-03-11 00:00~01:00</td>
+            <td style="text-align:center;color:#f87171;font-weight:bold">DOWN</td>
+            <td style="text-align:center;color:#4ade80">71%</td>
+            <td style="text-align:center;color:#f87171">53%</td>
+            <td style="text-align:center;color:#f87171">55%</td>
+            <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
         </tr><tr style="cursor:pointer" onclick="location.href='v2_bigbody_clip01.html'">
             <td style="font-weight:bold;color:#93c5fd">bigbody_clip01<span style="color:#a78bfa;font-size:11px;margin-left:4px">full</span></td>
-            <td style="text-align:center">2026-03-10 23:00~00:00</td>
-            <td style="text-align:center;color:#4ade80;font-weight:bold">UP</td>
-            <td style="text-align:center;color:#4ade80">67%</td>
-            <td style="text-align:center;color:#4ade80">68%</td>
-            <td style="text-align:center;color:#4ade80">56%</td>
+            <td style="text-align:center">2026-03-11 00:00~01:00</td>
+            <td style="text-align:center;color:#f87171;font-weight:bold">DOWN</td>
+            <td style="text-align:center;color:#4ade80">53%</td>
+            <td style="text-align:center;color:#f87171">61%</td>
+            <td style="text-align:center;color:#f87171">55%</td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
         </tr><tr style="cursor:pointer" onclick="location.href='v2_bigbody_clip1.html'">
             <td style="font-weight:bold;color:#93c5fd">bigbody_clip1<span style="color:#60a5fa;font-size:11px;margin-left:4px">fold5</span></td>
-            <td style="text-align:center">2026-03-10 23:00~00:00</td>
-            <td style="text-align:center;color:#4ade80;font-weight:bold">UP</td>
-            <td style="text-align:center;color:#4ade80">87%</td>
-            <td style="text-align:center;color:#4ade80">82%</td>
-            <td style="text-align:center;color:#4ade80">58%</td>
-            <td style="text-align:center"><span style="color:#4ade80;font-weight:bold">73%</span><span style="color:#6b7280;font-size:11px">/11</span></td>
+            <td style="text-align:center">2026-03-11 00:00~01:00</td>
+            <td style="text-align:center;color:#f87171;font-weight:bold">DOWN</td>
+            <td style="text-align:center;color:#f87171">59%</td>
+            <td style="text-align:center;color:#f87171">56%</td>
+            <td style="text-align:center;color:#f87171">53%</td>
+            <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
         </tr><tr style="cursor:pointer" onclick="location.href='v2_bigbody_clip1.html'">
             <td style="font-weight:bold;color:#93c5fd">bigbody_clip1<span style="color:#a78bfa;font-size:11px;margin-left:4px">full</span></td>
-            <td style="text-align:center">2026-03-10 23:00~00:00</td>
-            <td style="text-align:center;color:#4ade80;font-weight:bold">UP</td>
-            <td style="text-align:center;color:#4ade80">59%</td>
-            <td style="text-align:center;color:#4ade80">69%</td>
-            <td style="text-align:center;color:#4ade80">55%</td>
+            <td style="text-align:center">2026-03-11 00:00~01:00</td>
+            <td style="text-align:center;color:#f87171;font-weight:bold">DOWN</td>
+            <td style="text-align:center;color:#4ade80">65%</td>
+            <td style="text-align:center;color:#f87171">51%</td>
+            <td style="text-align:center;color:#f87171">52%</td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
         </tr><tr style="cursor:pointer" onclick="location.href='v2_bigbody_clip3.html'">
             <td style="font-weight:bold;color:#93c5fd">bigbody_clip3<span style="color:#60a5fa;font-size:11px;margin-left:4px">fold5</span></td>
-            <td style="text-align:center">2026-03-10 23:00~00:00</td>
-            <td style="text-align:center;color:#4ade80;font-weight:bold">UP</td>
-            <td style="text-align:center;color:#4ade80">81%</td>
-            <td style="text-align:center;color:#4ade80">77%</td>
-            <td style="text-align:center;color:#4ade80">58%</td>
-            <td style="text-align:center"><span style="color:#fbbf24;font-weight:bold">67%</span><span style="color:#6b7280;font-size:11px">/87</span></td>
+            <td style="text-align:center">2026-03-11 00:00~01:00</td>
+            <td style="text-align:center;color:#f87171;font-weight:bold">DOWN</td>
+            <td style="text-align:center;color:#4ade80">55%</td>
+            <td style="text-align:center;color:#f87171">58%</td>
+            <td style="text-align:center;color:#f87171">52%</td>
+            <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
         </tr><tr style="cursor:pointer" onclick="location.href='v2_bigbody_clip3.html'">
             <td style="font-weight:bold;color:#93c5fd">bigbody_clip3<span style="color:#a78bfa;font-size:11px;margin-left:4px">full</span></td>
-            <td style="text-align:center">2026-03-10 23:00~00:00</td>
-            <td style="text-align:center;color:#4ade80;font-weight:bold">UP</td>
-            <td style="text-align:center;color:#4ade80">66%</td>
-            <td style="text-align:center;color:#4ade80">59%</td>
-            <td style="text-align:center;color:#4ade80">57%</td>
+            <td style="text-align:center">2026-03-11 00:00~01:00</td>
+            <td style="text-align:center;color:#f87171;font-weight:bold">DOWN</td>
+            <td style="text-align:center;color:#f87171">56%</td>
+            <td style="text-align:center;color:#f87171">53%</td>
+            <td style="text-align:center;color:#f87171">52%</td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
         </tr><tr style="cursor:pointer" onclick="location.href='v2_streak_log.html'">
             <td style="font-weight:bold;color:#93c5fd">streak_log<span style="color:#60a5fa;font-size:11px;margin-left:4px">fold5</span></td>
-            <td style="text-align:center">2026-03-10 23:00~00:00</td>
-            <td style="text-align:center;color:#4ade80;font-weight:bold">UP</td>
-            <td style="text-align:center;color:#4ade80">85%</td>
-            <td style="text-align:center;color:#4ade80">80%</td>
-            <td style="text-align:center;color:#4ade80">57%</td>
+            <td style="text-align:center">2026-03-11 00:00~01:00</td>
+            <td style="text-align:center;color:#f87171;font-weight:bold">DOWN</td>
+            <td style="text-align:center;color:#4ade80">63%</td>
+            <td style="text-align:center;color:#f87171">60%</td>
+            <td style="text-align:center;color:#f87171">54%</td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
         </tr><tr style="cursor:pointer" onclick="location.href='v2_streak_log.html'">
             <td style="font-weight:bold;color:#93c5fd">streak_log<span style="color:#a78bfa;font-size:11px;margin-left:4px">full</span></td>
-            <td style="text-align:center">2026-03-10 23:00~00:00</td>
+            <td style="text-align:center">2026-03-11 00:00~01:00</td>
             <td style="text-align:center;color:#4ade80;font-weight:bold">UP</td>
-            <td style="text-align:center;color:#4ade80">61%</td>
-            <td style="text-align:center;color:#4ade80">72%</td>
-            <td style="text-align:center;color:#4ade80">57%</td>
+            <td style="text-align:center;color:#4ade80">58%</td>
+            <td style="text-align:center;color:#4ade80">53%</td>
+            <td style="text-align:center;color:#f87171">54%</td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
         </tr><tr style="cursor:pointer" onclick="location.href='v2_maprox_eps001.html'">
             <td style="font-weight:bold;color:#93c5fd">maprox_eps001<span style="color:#60a5fa;font-size:11px;margin-left:4px">fold5</span></td>
-            <td style="text-align:center">2026-03-10 23:00~00:00</td>
-            <td style="text-align:center;color:#4ade80;font-weight:bold">UP</td>
-            <td style="text-align:center;color:#4ade80">80%</td>
-            <td style="text-align:center;color:#4ade80">79%</td>
-            <td style="text-align:center;color:#4ade80">57%</td>
+            <td style="text-align:center">2026-03-11 00:00~01:00</td>
+            <td style="text-align:center;color:#f87171;font-weight:bold">DOWN</td>
+            <td style="text-align:center;color:#f87171">58%</td>
+            <td style="text-align:center;color:#f87171">54%</td>
+            <td style="text-align:center;color:#f87171">53%</td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
         </tr><tr style="cursor:pointer" onclick="location.href='v2_maprox_eps001.html'">
             <td style="font-weight:bold;color:#93c5fd">maprox_eps001<span style="color:#a78bfa;font-size:11px;margin-left:4px">full</span></td>
-            <td style="text-align:center">2026-03-10 23:00~00:00</td>
-            <td style="text-align:center;color:#4ade80;font-weight:bold">UP</td>
-            <td style="text-align:center;color:#4ade80">67%</td>
-            <td style="text-align:center;color:#4ade80">71%</td>
-            <td style="text-align:center;color:#4ade80">56%</td>
+            <td style="text-align:center">2026-03-11 00:00~01:00</td>
+            <td style="text-align:center;color:#f87171;font-weight:bold">DOWN</td>
+            <td style="text-align:center;color:#f87171">56%</td>
+            <td style="text-align:center;color:#f87171">59%</td>
+            <td style="text-align:center;color:#f87171">55%</td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
         </tr><tr style="cursor:pointer" onclick="location.href='v2_volratio_raw.html'">
             <td style="font-weight:bold;color:#93c5fd">volratio_raw<span style="color:#60a5fa;font-size:11px;margin-left:4px">fold5</span></td>
-            <td style="text-align:center">2026-03-10 23:00~00:00</td>
+            <td style="text-align:center">2026-03-11 00:00~01:00</td>
             <td style="text-align:center;color:#4ade80;font-weight:bold">UP</td>
-            <td style="text-align:center;color:#4ade80">78%</td>
-            <td style="text-align:center;color:#4ade80">84%</td>
-            <td style="text-align:center;color:#4ade80">57%</td>
+            <td style="text-align:center;color:#4ade80">59%</td>
+            <td style="text-align:center;color:#4ade80">59%</td>
+            <td style="text-align:center;color:#f87171">55%</td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
         </tr><tr style="cursor:pointer" onclick="location.href='v2_volratio_raw.html'">
             <td style="font-weight:bold;color:#93c5fd">volratio_raw<span style="color:#a78bfa;font-size:11px;margin-left:4px">full</span></td>
-            <td style="text-align:center">2026-03-10 23:00~00:00</td>
+            <td style="text-align:center">2026-03-11 00:00~01:00</td>
             <td style="text-align:center;color:#4ade80;font-weight:bold">UP</td>
+            <td style="text-align:center;color:#4ade80">62%</td>
             <td style="text-align:center;color:#4ade80">64%</td>
-            <td style="text-align:center;color:#4ade80">63%</td>
-            <td style="text-align:center;color:#4ade80">56%</td>
+            <td style="text-align:center;color:#f87171">54%</td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
         </tr><tr style="cursor:pointer" onclick="location.href='v2_volratio_clip.html'">
             <td style="font-weight:bold;color:#93c5fd">volratio_clip<span style="color:#60a5fa;font-size:11px;margin-left:4px">fold5</span></td>
-            <td style="text-align:center">2026-03-10 23:00~00:00</td>
+            <td style="text-align:center">2026-03-11 00:00~01:00</td>
             <td style="text-align:center;color:#4ade80;font-weight:bold">UP</td>
-            <td style="text-align:center;color:#4ade80">84%</td>
-            <td style="text-align:center;color:#4ade80">83%</td>
-            <td style="text-align:center;color:#4ade80">58%</td>
+            <td style="text-align:center;color:#4ade80">65%</td>
+            <td style="text-align:center;color:#4ade80">59%</td>
+            <td style="text-align:center;color:#f87171">55%</td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
         </tr><tr style="cursor:pointer" onclick="location.href='v2_volratio_clip.html'">
             <td style="font-weight:bold;color:#93c5fd">volratio_clip<span style="color:#a78bfa;font-size:11px;margin-left:4px">full</span></td>
-            <td style="text-align:center">2026-03-10 23:00~00:00</td>
+            <td style="text-align:center">2026-03-11 00:00~01:00</td>
             <td style="text-align:center;color:#4ade80;font-weight:bold">UP</td>
-            <td style="text-align:center;color:#4ade80">61%</td>
-            <td style="text-align:center;color:#4ade80">67%</td>
-            <td style="text-align:center;color:#4ade80">56%</td>
+            <td style="text-align:center;color:#4ade80">51%</td>
+            <td style="text-align:center;color:#4ade80">63%</td>
+            <td style="text-align:center;color:#f87171">53%</td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
         </tr><tr style="cursor:pointer" onclick="location.href='v2_ecross_2050.html'">
             <td style="font-weight:bold;color:#93c5fd">ecross_2050<span style="color:#60a5fa;font-size:11px;margin-left:4px">fold5</span></td>
-            <td style="text-align:center">2026-03-10 23:00~00:00</td>
-            <td style="text-align:center;color:#4ade80;font-weight:bold">UP</td>
-            <td style="text-align:center;color:#4ade80">81%</td>
-            <td style="text-align:center;color:#4ade80">82%</td>
-            <td style="text-align:center;color:#4ade80">63%</td>
+            <td style="text-align:center">2026-03-11 00:00~01:00</td>
+            <td style="text-align:center;color:#f87171;font-weight:bold">DOWN</td>
+            <td style="text-align:center;color:#f87171">52%</td>
+            <td style="text-align:center;color:#4ade80">60%</td>
+            <td style="text-align:center;color:#f87171">54%</td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
         </tr><tr style="cursor:pointer" onclick="location.href='v2_ecross_2050.html'">
             <td style="font-weight:bold;color:#93c5fd">ecross_2050<span style="color:#a78bfa;font-size:11px;margin-left:4px">full</span></td>
-            <td style="text-align:center">2026-03-10 23:00~00:00</td>
+            <td style="text-align:center">2026-03-11 00:00~01:00</td>
             <td style="text-align:center;color:#4ade80;font-weight:bold">UP</td>
-            <td style="text-align:center;color:#4ade80">60%</td>
-            <td style="text-align:center;color:#4ade80">67%</td>
-            <td style="text-align:center;color:#4ade80">59%</td>
+            <td style="text-align:center;color:#4ade80">52%</td>
+            <td style="text-align:center;color:#4ade80">54%</td>
+            <td style="text-align:center;color:#f87171">54%</td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
         </tr><tr style="cursor:pointer" onclick="location.href='v2_edev_20sq.html'">
             <td style="font-weight:bold;color:#93c5fd">edev_20sq<span style="color:#60a5fa;font-size:11px;margin-left:4px">fold5</span></td>
-            <td style="text-align:center">2026-03-10 23:00~00:00</td>
+            <td style="text-align:center">2026-03-11 00:00~01:00</td>
             <td style="text-align:center;color:#4ade80;font-weight:bold">UP</td>
-            <td style="text-align:center;color:#4ade80">60%</td>
-            <td style="text-align:center;color:#4ade80">62%</td>
-            <td style="text-align:center;color:#4ade80">54%</td>
+            <td style="text-align:center;color:#4ade80">55%</td>
+            <td style="text-align:center;color:#4ade80">50%</td>
+            <td style="text-align:center;color:#f87171">56%</td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
         </tr><tr style="cursor:pointer" onclick="location.href='v2_edev_20sq.html'">
             <td style="font-weight:bold;color:#93c5fd">edev_20sq<span style="color:#a78bfa;font-size:11px;margin-left:4px">full</span></td>
-            <td style="text-align:center">2026-03-10 23:00~00:00</td>
-            <td style="text-align:center;color:#4ade80;font-weight:bold">UP</td>
-            <td style="text-align:center;color:#4ade80">68%</td>
-            <td style="text-align:center;color:#4ade80">59%</td>
-            <td style="text-align:center;color:#4ade80">57%</td>
+            <td style="text-align:center">2026-03-11 00:00~01:00</td>
+            <td style="text-align:center;color:#f87171;font-weight:bold">DOWN</td>
+            <td style="text-align:center;color:#4ade80">60%</td>
+            <td style="text-align:center;color:#f87171">57%</td>
+            <td style="text-align:center;color:#f87171">55%</td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
         </tr><tr style="cursor:pointer" onclick="location.href='v2_edev_200sq.html'">
             <td style="font-weight:bold;color:#93c5fd">edev_200sq<span style="color:#60a5fa;font-size:11px;margin-left:4px">fold5</span></td>
-            <td style="text-align:center">2026-03-10 23:00~00:00</td>
-            <td style="text-align:center;color:#4ade80;font-weight:bold">UP</td>
-            <td style="text-align:center;color:#4ade80">66%</td>
-            <td style="text-align:center;color:#4ade80">68%</td>
-            <td style="text-align:center;color:#4ade80">57%</td>
+            <td style="text-align:center">2026-03-11 00:00~01:00</td>
+            <td style="text-align:center;color:#f87171;font-weight:bold">DOWN</td>
+            <td style="text-align:center;color:#f87171">66%</td>
+            <td style="text-align:center;color:#f87171">55%</td>
+            <td style="text-align:center;color:#f87171">52%</td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
         </tr><tr style="cursor:pointer" onclick="location.href='v2_edev_200sq.html'">
             <td style="font-weight:bold;color:#93c5fd">edev_200sq<span style="color:#a78bfa;font-size:11px;margin-left:4px">full</span></td>
-            <td style="text-align:center">2026-03-10 23:00~00:00</td>
-            <td style="text-align:center;color:#4ade80;font-weight:bold">UP</td>
-            <td style="text-align:center;color:#4ade80">61%</td>
-            <td style="text-align:center;color:#4ade80">65%</td>
-            <td style="text-align:center;color:#4ade80">55%</td>
+            <td style="text-align:center">2026-03-11 00:00~01:00</td>
+            <td style="text-align:center;color:#f87171;font-weight:bold">DOWN</td>
+            <td style="text-align:center;color:#4ade80">59%</td>
+            <td style="text-align:center;color:#f87171">56%</td>
+            <td style="text-align:center;color:#f87171">52%</td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
         </tr><tr style="cursor:pointer" onclick="location.href='v2_edev_sum.html'">
             <td style="font-weight:bold;color:#93c5fd">edev_sum<span style="color:#60a5fa;font-size:11px;margin-left:4px">fold5</span></td>
-            <td style="text-align:center">2026-03-10 23:00~00:00</td>
+            <td style="text-align:center">2026-03-11 00:00~01:00</td>
             <td style="text-align:center;color:#4ade80;font-weight:bold">UP</td>
-            <td style="text-align:center;color:#4ade80">67%</td>
-            <td style="text-align:center;color:#4ade80">78%</td>
-            <td style="text-align:center;color:#4ade80">57%</td>
+            <td style="text-align:center;color:#4ade80">51%</td>
+            <td style="text-align:center;color:#4ade80">59%</td>
+            <td style="text-align:center;color:#f87171">54%</td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
         </tr><tr style="cursor:pointer" onclick="location.href='v2_edev_sum.html'">
             <td style="font-weight:bold;color:#93c5fd">edev_sum<span style="color:#a78bfa;font-size:11px;margin-left:4px">full</span></td>
-            <td style="text-align:center">2026-03-10 23:00~00:00</td>
+            <td style="text-align:center">2026-03-11 00:00~01:00</td>
             <td style="text-align:center;color:#4ade80;font-weight:bold">UP</td>
-            <td style="text-align:center;color:#4ade80">63%</td>
-            <td style="text-align:center;color:#4ade80">67%</td>
-            <td style="text-align:center;color:#4ade80">56%</td>
+            <td style="text-align:center;color:#4ade80">53%</td>
+            <td style="text-align:center;color:#4ade80">54%</td>
+            <td style="text-align:center;color:#f87171">53%</td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
-        </tr><tr style="background:#1a2332;cursor:pointer" onclick="location.href='v2_espread_sqrt.html'">
-            <td style="font-weight:bold;color:#93c5fd">espread_sqrt<span style="color:#60a5fa;font-size:11px;margin-left:4px">fold5</span> <span style="background:#fbbf24;color:#000;padding:1px 6px;border-radius:4px;font-size:11px;font-weight:bold">SIG</span></td>
-            <td style="text-align:center">2026-03-10 23:00~00:00</td>
+        </tr><tr style="cursor:pointer" onclick="location.href='v2_espread_sqrt.html'">
+            <td style="font-weight:bold;color:#93c5fd">espread_sqrt<span style="color:#60a5fa;font-size:11px;margin-left:4px">fold5</span></td>
+            <td style="text-align:center">2026-03-11 00:00~01:00</td>
             <td style="text-align:center;color:#4ade80;font-weight:bold">UP</td>
-            <td style="text-align:center;color:#4ade80">78%</td>
-            <td style="text-align:center;color:#4ade80">84%</td>
-            <td style="text-align:center;color:#4ade80">55%</td>
-            <td style="text-align:center"><span style="color:#22c55e;font-weight:bold">100%</span><span style="color:#6b7280;font-size:11px">/13</span></td>
+            <td style="text-align:center;color:#4ade80">59%</td>
+            <td style="text-align:center;color:#4ade80">65%</td>
+            <td style="text-align:center;color:#f87171">54%</td>
+            <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
         </tr><tr style="cursor:pointer" onclick="location.href='v2_espread_sqrt.html'">
             <td style="font-weight:bold;color:#93c5fd">espread_sqrt<span style="color:#a78bfa;font-size:11px;margin-left:4px">full</span></td>
-            <td style="text-align:center">2026-03-10 23:00~00:00</td>
-            <td style="text-align:center;color:#4ade80;font-weight:bold">UP</td>
-            <td style="text-align:center;color:#4ade80">71%</td>
-            <td style="text-align:center;color:#4ade80">71%</td>
-            <td style="text-align:center;color:#4ade80">55%</td>
+            <td style="text-align:center">2026-03-11 00:00~01:00</td>
+            <td style="text-align:center;color:#f87171;font-weight:bold">DOWN</td>
+            <td style="text-align:center;color:#f87171">61%</td>
+            <td style="text-align:center;color:#f87171">60%</td>
+            <td style="text-align:center;color:#f87171">53%</td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
         </tr><tr style="cursor:pointer" onclick="location.href='v2_mainv_sqrt.html'">
             <td style="font-weight:bold;color:#93c5fd">mainv_sqrt<span style="color:#60a5fa;font-size:11px;margin-left:4px">fold5</span></td>
-            <td style="text-align:center">2026-03-10 23:00~00:00</td>
+            <td style="text-align:center">2026-03-11 00:00~01:00</td>
             <td style="text-align:center;color:#4ade80;font-weight:bold">UP</td>
-            <td style="text-align:center;color:#4ade80">74%</td>
-            <td style="text-align:center;color:#4ade80">73%</td>
             <td style="text-align:center;color:#4ade80">59%</td>
+            <td style="text-align:center;color:#4ade80">60%</td>
+            <td style="text-align:center;color:#f87171">56%</td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
         </tr><tr style="cursor:pointer" onclick="location.href='v2_mainv_sqrt.html'">
             <td style="font-weight:bold;color:#93c5fd">mainv_sqrt<span style="color:#a78bfa;font-size:11px;margin-left:4px">full</span></td>
-            <td style="text-align:center">2026-03-10 23:00~00:00</td>
-            <td style="text-align:center;color:#4ade80;font-weight:bold">UP</td>
-            <td style="text-align:center;color:#4ade80">54%</td>
-            <td style="text-align:center;color:#4ade80">60%</td>
-            <td style="text-align:center;color:#4ade80">58%</td>
+            <td style="text-align:center">2026-03-11 00:00~01:00</td>
+            <td style="text-align:center;color:#f87171;font-weight:bold">DOWN</td>
+            <td style="text-align:center;color:#f87171">53%</td>
+            <td style="text-align:center;color:#4ade80">65%</td>
+            <td style="text-align:center;color:#f87171">56%</td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
             <td style="text-align:center"><span style="color:#6b7280">-</span></td>
@@ -516,5 +511,5 @@ tr:hover { background: #1f2937 !important; }
         </tr>
 </tbody>
 </table>
-<p class="updated">갱신: 2026-03-10 23:01:28</p>
+<p class="updated">갱신: 2026-03-11 00:01:55</p>
 </body></html>
