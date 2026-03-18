@@ -64,7 +64,6 @@ function draw() {
     const canvas = document.getElementById('canvas');
     const container = canvas.parentElement;
     const ctx = canvas.getContext('2d');
-    const containerH = container.getBoundingClientRect().height;
 
     // 최근 N일 필터
     const cutoff = new Date(CANDLES[CANDLES.length-1].t);
@@ -75,21 +74,19 @@ function draw() {
 
     if (data.length === 0) return;
 
-    // 캔들 폭 고정 12px, 간격 4px
     const cw = 16;
     const padding = {top:20, bottom:30, left:60, right:40};
     const W = padding.left + data.length * cw + padding.right;
-    const H = containerH;
+    const H = 600;
 
-    canvas.width = W * 2;
-    canvas.height = H * 2;
+    canvas.width = W;
+    canvas.height = H;
     canvas.style.width = W + 'px';
     canvas.style.height = H + 'px';
-    ctx.scale(2, 2);
     ctx.clearRect(0, 0, W, H);
 
     // 자동 스크롤 오른쪽 끝
-    container.scrollLeft = container.scrollWidth;
+    setTimeout(() => container.scrollLeft = container.scrollWidth, 100);
     const prices = data.flatMap(c => [c.h, c.l]);
     let minP = Math.min(...prices), maxP = Math.max(...prices);
     const range = maxP - minP;
