@@ -60,7 +60,10 @@ body { font-family: 'Courier New', monospace; background: #0d1117; color: #c9d1d
 </head>
 <body>
 <div class="header">
-    <div><h1>BTC Signal Dashboard<span class="ver">v2 (XGB+LGB, BUY only)</span></h1></div>
+    <div style="display:flex;align-items:center;gap:16px;">
+        <h1>BTC Signal Dashboard<span class="ver">v2 (1봉 예측)</span></h1>
+        <a href="2h.html" style="color:#58a6ff;font-size:13px;text-decoration:none;border:1px solid #30363d;padding:4px 12px;border-radius:6px;">→ 2H 대시보드</a>
+    </div>
     <div class="nav">
         <button onclick="prevDay()">&larr;</button>
         <span class="date" id="dateLabel"></span>
