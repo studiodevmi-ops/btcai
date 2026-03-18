@@ -167,17 +167,79 @@ function draw() {
     document.getElementById('stats').textContent =
         `${total} signals | ✓${correct} ✗${wrong} | ${wr}%`;
 
-    // 날짜 라벨
+    // 날짜+시간 라벨
     ctx.fillStyle = '#484f58';
     ctx.font = '9px monospace';
     ctx.textAlign = 'center';
-    const labelStep = Math.max(1, Math.floor(data.length / 15));
+    let lastDate = '';
     data.forEach((c, i) => {
-        if (i % labelStep === 0) {
-            ctx.fillText(c.t.slice(5,10), toX(i), H - 8);
+        const date = c.t.slice(5,10);
+        const hour = c.t.slice(11,16);
+        const x = toX(i);
+        // 날짜 바뀔 때
+        if (date !== lastDate) {
+            ctx.fillStyle = '#8b949e';
+            ctx.fillText(date, x, H - 16);
+            ctx.strokeStyle = '#30363d';
+            ctx.beginPath(); ctx.moveTo(x, padding.top); ctx.lineTo(x, H - padding.bottom); ctx.stroke();
+            lastDate = date;
+        }
+        // 6시간마다 시간 표시
+        const h = parseInt(hour);
+        if (h % 6 === 0) {
+            ctx.fillStyle = '#484f58';
+            ctx.fillText(hour, x, H - 4);
         }
     });
+
+    // 데이터 저장 (마우스 이벤트용)
+    canvas._chartData = data;
+    canvas._chartSigs = sigs;
+    canvas._chartTimeIdx = timeIdx;
+    canvas._chartToX = toX;
+    canvas._chartToY = toY;
+    canvas._chartPadding = padding;
+    canvas._chartCw = cw;
 }
+
+// 툴팁
+const tooltip = document.createElement('div');
+tooltip.style.cssText = 'position:fixed;background:#21262d;color:#c9d1d9;padding:8px 12px;border-radius:6px;font-size:11px;pointer-events:none;display:none;z-index:100;border:1px solid #30363d;font-family:monospace;line-height:1.6;';
+document.body.appendChild(tooltip);
+
+document.getElementById('canvas').addEventListener('mousemove', function(e) {
+    const canvas = this;
+    const data = canvas._chartData;
+    if (!data) return;
+    const rect = canvas.getBoundingClientRect();
+    const mx = e.clientX - rect.left + canvas.parentElement.scrollLeft;
+    const cw = canvas._chartCw;
+    const pad = canvas._chartPadding;
+    const idx = Math.floor((mx - pad.left) / cw);
+    if (idx >= 0 && idx < data.length) {
+        const c = data[idx];
+        const bull = c.c >= c.o;
+        const chg = ((c.c - c.o) / c.o * 100).toFixed(3);
+        let txt = `<b>${c.t} KST</b><br>O: ${c.o.toLocaleString()} H: ${c.h.toLocaleString()}<br>L: ${c.l.toLocaleString()} C: ${c.c.toLocaleString()}<br>${bull ? '▲' : '▼'} ${chg}%`;
+        // 시그널 있으면 표시
+        const timeIdx = canvas._chartTimeIdx;
+        const sigKey = c.t;
+        const sig = canvas._chartSigs.find(s => s.t === sigKey);
+        if (sig) {
+            const dir = sig.d === 'U' ? '▲UP' : '▼DOWN';
+            const res = sig.r === 1 ? '✓맞음' : '✗틀림';
+            const rc = sig.r === 1 ? '#3fb950' : '#f85149';
+            txt += `<br><span style="color:${rc}">${dir} ${sig.w}% ${sig.c} ${res}</span>`;
+        }
+        tooltip.innerHTML = txt;
+        tooltip.style.display = 'block';
+        tooltip.style.left = (e.clientX + 12) + 'px';
+        tooltip.style.top = (e.clientY - 10) + 'px';
+    } else {
+        tooltip.style.display = 'none';
+    }
+});
+document.getElementById('canvas').addEventListener('mouseleave', () => tooltip.style.display = 'none');
 
 window.addEventListener('resize', draw);
 draw();
