@@ -56,6 +56,21 @@ body { font-family: 'Courier New', monospace; background: #0d1117; color: #c9d1d
     box-shadow: 0 2px 8px rgba(0,0,0,0.5);
 }
 .empty-day { text-align: center; padding: 60px; color: #484f58; font-size: 16px; }
+@media (max-width: 768px) {
+    .header { padding: 10px 12px; flex-direction: column; gap: 8px; }
+    .header h1 { font-size: 16px; }
+    .nav button { padding: 6px 10px; font-size: 14px; }
+    .nav .date { font-size: 14px; min-width: 100px; }
+    .summary { margin: 8px 12px; padding: 10px; gap: 15px; }
+    .stat .val { font-size: 18px; }
+    .content { padding: 0 8px 12px; }
+    .hour-block { padding: 8px 10px; }
+    .hour-label { font-size: 14px; }
+    .sig { padding: 3px 6px; font-size: 10px; }
+    .source-label { width: 30px; font-size: 10px; }
+    #topConfigs { margin: 8px 12px; padding: 10px; }
+    #topTable table { font-size: 10px; }
+}
 </style>
 </head>
 <body>
