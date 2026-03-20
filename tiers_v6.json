@@ -1,0 +1,5721 @@
+{
+  "buy": {
+    "up": {
+      "bigbody_clip01": [
+        {
+          "wr_min": 70,
+          "xgb": 64,
+          "lgb": 55,
+          "count": 21,
+          "wr": 71.4
+        },
+        {
+          "wr_min": 72,
+          "xgb": 64,
+          "lgb": 56,
+          "count": 20,
+          "wr": 75.0
+        },
+        {
+          "wr_min": 74,
+          "xgb": 64,
+          "lgb": 56,
+          "count": 20,
+          "wr": 75.0
+        },
+        {
+          "wr_min": 76,
+          "xgb": 64,
+          "lgb": 58,
+          "count": 15,
+          "wr": 80.0
+        },
+        {
+          "wr_min": 78,
+          "xgb": 64,
+          "lgb": 58,
+          "count": 15,
+          "wr": 80.0
+        },
+        {
+          "wr_min": 80,
+          "xgb": 64,
+          "lgb": 58,
+          "count": 15,
+          "wr": 80.0
+        },
+        {
+          "wr_min": 82,
+          "xgb": 65,
+          "lgb": 55,
+          "count": 10,
+          "wr": 90.0
+        },
+        {
+          "wr_min": 84,
+          "xgb": 65,
+          "lgb": 55,
+          "count": 10,
+          "wr": 90.0
+        },
+        {
+          "wr_min": 86,
+          "xgb": 65,
+          "lgb": 55,
+          "count": 10,
+          "wr": 90.0
+        },
+        {
+          "wr_min": 88,
+          "xgb": 65,
+          "lgb": 55,
+          "count": 10,
+          "wr": 90.0
+        },
+        {
+          "wr_min": 90,
+          "xgb": 65,
+          "lgb": 55,
+          "count": 10,
+          "wr": 90.0
+        },
+        {
+          "wr_min": 92,
+          "xgb": 65,
+          "lgb": 58,
+          "count": 8,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 94,
+          "xgb": 65,
+          "lgb": 58,
+          "count": 8,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 96,
+          "xgb": 65,
+          "lgb": 58,
+          "count": 8,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 98,
+          "xgb": 65,
+          "lgb": 58,
+          "count": 8,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 100,
+          "xgb": 65,
+          "lgb": 58,
+          "count": 8,
+          "wr": 100.0
+        }
+      ],
+      "bigbody_clip1": [
+        {
+          "wr_min": 70,
+          "xgb": 60,
+          "lgb": 57,
+          "count": 24,
+          "wr": 70.8
+        },
+        {
+          "wr_min": 72,
+          "xgb": 61,
+          "lgb": 57,
+          "count": 17,
+          "wr": 76.5
+        },
+        {
+          "wr_min": 74,
+          "xgb": 61,
+          "lgb": 57,
+          "count": 17,
+          "wr": 76.5
+        },
+        {
+          "wr_min": 76,
+          "xgb": 61,
+          "lgb": 57,
+          "count": 17,
+          "wr": 76.5
+        },
+        {
+          "wr_min": 78,
+          "xgb": 55,
+          "lgb": 59,
+          "count": 8,
+          "wr": 87.5
+        },
+        {
+          "wr_min": 80,
+          "xgb": 55,
+          "lgb": 59,
+          "count": 8,
+          "wr": 87.5
+        },
+        {
+          "wr_min": 82,
+          "xgb": 55,
+          "lgb": 59,
+          "count": 8,
+          "wr": 87.5
+        },
+        {
+          "wr_min": 84,
+          "xgb": 55,
+          "lgb": 59,
+          "count": 8,
+          "wr": 87.5
+        },
+        {
+          "wr_min": 86,
+          "xgb": 55,
+          "lgb": 59,
+          "count": 8,
+          "wr": 87.5
+        },
+        {
+          "wr_min": 88,
+          "xgb": 61,
+          "lgb": 59,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 90,
+          "xgb": 61,
+          "lgb": 59,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 92,
+          "xgb": 61,
+          "lgb": 59,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 94,
+          "xgb": 61,
+          "lgb": 59,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 96,
+          "xgb": 61,
+          "lgb": 59,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 98,
+          "xgb": 61,
+          "lgb": 59,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 100,
+          "xgb": 61,
+          "lgb": 59,
+          "count": 4,
+          "wr": 100.0
+        }
+      ],
+      "bigbody_clip3": [
+        {
+          "wr_min": 70,
+          "xgb": 62,
+          "lgb": 55,
+          "count": 13,
+          "wr": 76.9
+        },
+        {
+          "wr_min": 72,
+          "xgb": 62,
+          "lgb": 55,
+          "count": 13,
+          "wr": 76.9
+        },
+        {
+          "wr_min": 74,
+          "xgb": 62,
+          "lgb": 55,
+          "count": 13,
+          "wr": 76.9
+        },
+        {
+          "wr_min": 76,
+          "xgb": 62,
+          "lgb": 55,
+          "count": 13,
+          "wr": 76.9
+        },
+        {
+          "wr_min": 78,
+          "xgb": 62,
+          "lgb": 58,
+          "count": 10,
+          "wr": 80.0
+        },
+        {
+          "wr_min": 80,
+          "xgb": 62,
+          "lgb": 58,
+          "count": 10,
+          "wr": 80.0
+        },
+        {
+          "wr_min": 82,
+          "xgb": 55,
+          "lgb": 61,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 84,
+          "xgb": 55,
+          "lgb": 61,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 86,
+          "xgb": 55,
+          "lgb": 61,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 88,
+          "xgb": 55,
+          "lgb": 61,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 90,
+          "xgb": 55,
+          "lgb": 61,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 92,
+          "xgb": 55,
+          "lgb": 61,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 94,
+          "xgb": 55,
+          "lgb": 61,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 96,
+          "xgb": 55,
+          "lgb": 61,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 98,
+          "xgb": 55,
+          "lgb": 61,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 100,
+          "xgb": 55,
+          "lgb": 61,
+          "count": 5,
+          "wr": 100.0
+        }
+      ],
+      "eband_over2": [
+        {
+          "wr_min": 70,
+          "xgb": 57,
+          "lgb": 58,
+          "count": 47,
+          "wr": 70.2
+        },
+        {
+          "wr_min": 72,
+          "xgb": 55,
+          "lgb": 63,
+          "count": 5,
+          "wr": 80.0
+        },
+        {
+          "wr_min": 74,
+          "xgb": 55,
+          "lgb": 63,
+          "count": 5,
+          "wr": 80.0
+        },
+        {
+          "wr_min": 76,
+          "xgb": 55,
+          "lgb": 63,
+          "count": 5,
+          "wr": 80.0
+        },
+        {
+          "wr_min": 78,
+          "xgb": 55,
+          "lgb": 63,
+          "count": 5,
+          "wr": 80.0
+        },
+        {
+          "wr_min": 80,
+          "xgb": 55,
+          "lgb": 63,
+          "count": 5,
+          "wr": 80.0
+        }
+      ],
+      "ecross_20200": [
+        {
+          "wr_min": 70,
+          "xgb": 60,
+          "lgb": 57,
+          "count": 40,
+          "wr": 70.0
+        }
+      ],
+      "ecross_2050": [
+        {
+          "wr_min": 70,
+          "xgb": 62,
+          "lgb": 55,
+          "count": 22,
+          "wr": 77.3
+        },
+        {
+          "wr_min": 72,
+          "xgb": 62,
+          "lgb": 55,
+          "count": 22,
+          "wr": 77.3
+        },
+        {
+          "wr_min": 74,
+          "xgb": 62,
+          "lgb": 55,
+          "count": 22,
+          "wr": 77.3
+        },
+        {
+          "wr_min": 76,
+          "xgb": 62,
+          "lgb": 55,
+          "count": 22,
+          "wr": 77.3
+        },
+        {
+          "wr_min": 78,
+          "xgb": 62,
+          "lgb": 62,
+          "count": 8,
+          "wr": 87.5
+        },
+        {
+          "wr_min": 80,
+          "xgb": 62,
+          "lgb": 62,
+          "count": 8,
+          "wr": 87.5
+        },
+        {
+          "wr_min": 82,
+          "xgb": 62,
+          "lgb": 62,
+          "count": 8,
+          "wr": 87.5
+        },
+        {
+          "wr_min": 84,
+          "xgb": 62,
+          "lgb": 62,
+          "count": 8,
+          "wr": 87.5
+        },
+        {
+          "wr_min": 86,
+          "xgb": 62,
+          "lgb": 62,
+          "count": 8,
+          "wr": 87.5
+        },
+        {
+          "wr_min": 88,
+          "xgb": 55,
+          "lgb": 63,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 90,
+          "xgb": 55,
+          "lgb": 63,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 92,
+          "xgb": 55,
+          "lgb": 63,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 94,
+          "xgb": 55,
+          "lgb": 63,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 96,
+          "xgb": 55,
+          "lgb": 63,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 98,
+          "xgb": 55,
+          "lgb": 63,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 100,
+          "xgb": 55,
+          "lgb": 63,
+          "count": 3,
+          "wr": 100.0
+        }
+      ],
+      "ecross_50200": [
+        {
+          "wr_min": 70,
+          "xgb": 62,
+          "lgb": 61,
+          "count": 7,
+          "wr": 71.4
+        },
+        {
+          "wr_min": 72,
+          "xgb": 62,
+          "lgb": 63,
+          "count": 4,
+          "wr": 75.0
+        },
+        {
+          "wr_min": 74,
+          "xgb": 62,
+          "lgb": 63,
+          "count": 4,
+          "wr": 75.0
+        }
+      ],
+      "edev_20sq": [
+        {
+          "wr_min": 70,
+          "xgb": 65,
+          "lgb": 55,
+          "count": 4,
+          "wr": 75.0
+        },
+        {
+          "wr_min": 72,
+          "xgb": 65,
+          "lgb": 55,
+          "count": 4,
+          "wr": 75.0
+        },
+        {
+          "wr_min": 74,
+          "xgb": 65,
+          "lgb": 55,
+          "count": 4,
+          "wr": 75.0
+        }
+      ],
+      "edev_50sq": [
+        {
+          "wr_min": 70,
+          "xgb": 55,
+          "lgb": 59,
+          "count": 13,
+          "wr": 92.3
+        },
+        {
+          "wr_min": 72,
+          "xgb": 55,
+          "lgb": 59,
+          "count": 13,
+          "wr": 92.3
+        },
+        {
+          "wr_min": 74,
+          "xgb": 55,
+          "lgb": 59,
+          "count": 13,
+          "wr": 92.3
+        },
+        {
+          "wr_min": 76,
+          "xgb": 55,
+          "lgb": 59,
+          "count": 13,
+          "wr": 92.3
+        },
+        {
+          "wr_min": 78,
+          "xgb": 55,
+          "lgb": 59,
+          "count": 13,
+          "wr": 92.3
+        },
+        {
+          "wr_min": 80,
+          "xgb": 55,
+          "lgb": 59,
+          "count": 13,
+          "wr": 92.3
+        },
+        {
+          "wr_min": 82,
+          "xgb": 55,
+          "lgb": 59,
+          "count": 13,
+          "wr": 92.3
+        },
+        {
+          "wr_min": 84,
+          "xgb": 55,
+          "lgb": 59,
+          "count": 13,
+          "wr": 92.3
+        },
+        {
+          "wr_min": 86,
+          "xgb": 55,
+          "lgb": 59,
+          "count": 13,
+          "wr": 92.3
+        },
+        {
+          "wr_min": 88,
+          "xgb": 55,
+          "lgb": 59,
+          "count": 13,
+          "wr": 92.3
+        },
+        {
+          "wr_min": 90,
+          "xgb": 55,
+          "lgb": 59,
+          "count": 13,
+          "wr": 92.3
+        },
+        {
+          "wr_min": 92,
+          "xgb": 55,
+          "lgb": 59,
+          "count": 13,
+          "wr": 92.3
+        },
+        {
+          "wr_min": 94,
+          "xgb": 55,
+          "lgb": 61,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 96,
+          "xgb": 55,
+          "lgb": 61,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 98,
+          "xgb": 55,
+          "lgb": 61,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 100,
+          "xgb": 55,
+          "lgb": 61,
+          "count": 4,
+          "wr": 100.0
+        }
+      ],
+      "edev_allsq": [
+        {
+          "wr_min": 70,
+          "xgb": 55,
+          "lgb": 61,
+          "count": 7,
+          "wr": 71.4
+        },
+        {
+          "wr_min": 72,
+          "xgb": 60,
+          "lgb": 61,
+          "count": 5,
+          "wr": 80.0
+        },
+        {
+          "wr_min": 74,
+          "xgb": 60,
+          "lgb": 61,
+          "count": 5,
+          "wr": 80.0
+        },
+        {
+          "wr_min": 76,
+          "xgb": 60,
+          "lgb": 61,
+          "count": 5,
+          "wr": 80.0
+        },
+        {
+          "wr_min": 78,
+          "xgb": 60,
+          "lgb": 61,
+          "count": 5,
+          "wr": 80.0
+        },
+        {
+          "wr_min": 80,
+          "xgb": 60,
+          "lgb": 61,
+          "count": 5,
+          "wr": 80.0
+        }
+      ],
+      "edev_max": [
+        {
+          "wr_min": 70,
+          "xgb": 61,
+          "lgb": 58,
+          "count": 11,
+          "wr": 81.8
+        },
+        {
+          "wr_min": 72,
+          "xgb": 61,
+          "lgb": 58,
+          "count": 11,
+          "wr": 81.8
+        },
+        {
+          "wr_min": 74,
+          "xgb": 61,
+          "lgb": 58,
+          "count": 11,
+          "wr": 81.8
+        },
+        {
+          "wr_min": 76,
+          "xgb": 61,
+          "lgb": 58,
+          "count": 11,
+          "wr": 81.8
+        },
+        {
+          "wr_min": 78,
+          "xgb": 61,
+          "lgb": 58,
+          "count": 11,
+          "wr": 81.8
+        },
+        {
+          "wr_min": 80,
+          "xgb": 61,
+          "lgb": 58,
+          "count": 11,
+          "wr": 81.8
+        },
+        {
+          "wr_min": 82,
+          "xgb": 63,
+          "lgb": 57,
+          "count": 10,
+          "wr": 90.0
+        },
+        {
+          "wr_min": 84,
+          "xgb": 63,
+          "lgb": 57,
+          "count": 10,
+          "wr": 90.0
+        },
+        {
+          "wr_min": 86,
+          "xgb": 63,
+          "lgb": 57,
+          "count": 10,
+          "wr": 90.0
+        },
+        {
+          "wr_min": 88,
+          "xgb": 63,
+          "lgb": 57,
+          "count": 10,
+          "wr": 90.0
+        },
+        {
+          "wr_min": 90,
+          "xgb": 63,
+          "lgb": 57,
+          "count": 10,
+          "wr": 90.0
+        },
+        {
+          "wr_min": 92,
+          "xgb": 64,
+          "lgb": 55,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 94,
+          "xgb": 64,
+          "lgb": 55,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 96,
+          "xgb": 64,
+          "lgb": 55,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 98,
+          "xgb": 64,
+          "lgb": 55,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 100,
+          "xgb": 64,
+          "lgb": 55,
+          "count": 5,
+          "wr": 100.0
+        }
+      ],
+      "edev_sum": [
+        {
+          "wr_min": 70,
+          "xgb": 61,
+          "lgb": 58,
+          "count": 10,
+          "wr": 70.0
+        },
+        {
+          "wr_min": 72,
+          "xgb": 55,
+          "lgb": 60,
+          "count": 9,
+          "wr": 77.8
+        },
+        {
+          "wr_min": 74,
+          "xgb": 55,
+          "lgb": 60,
+          "count": 9,
+          "wr": 77.8
+        },
+        {
+          "wr_min": 76,
+          "xgb": 55,
+          "lgb": 60,
+          "count": 9,
+          "wr": 77.8
+        },
+        {
+          "wr_min": 78,
+          "xgb": 55,
+          "lgb": 61,
+          "count": 7,
+          "wr": 85.7
+        },
+        {
+          "wr_min": 80,
+          "xgb": 55,
+          "lgb": 61,
+          "count": 7,
+          "wr": 85.7
+        },
+        {
+          "wr_min": 82,
+          "xgb": 55,
+          "lgb": 61,
+          "count": 7,
+          "wr": 85.7
+        },
+        {
+          "wr_min": 84,
+          "xgb": 55,
+          "lgb": 61,
+          "count": 7,
+          "wr": 85.7
+        }
+      ],
+      "eslope_20": [
+        {
+          "wr_min": 70,
+          "xgb": 58,
+          "lgb": 61,
+          "count": 26,
+          "wr": 73.1
+        },
+        {
+          "wr_min": 72,
+          "xgb": 58,
+          "lgb": 61,
+          "count": 26,
+          "wr": 73.1
+        },
+        {
+          "wr_min": 74,
+          "xgb": 58,
+          "lgb": 62,
+          "count": 16,
+          "wr": 75.0
+        },
+        {
+          "wr_min": 76,
+          "xgb": 55,
+          "lgb": 63,
+          "count": 13,
+          "wr": 84.6
+        },
+        {
+          "wr_min": 78,
+          "xgb": 55,
+          "lgb": 63,
+          "count": 13,
+          "wr": 84.6
+        },
+        {
+          "wr_min": 80,
+          "xgb": 55,
+          "lgb": 63,
+          "count": 13,
+          "wr": 84.6
+        },
+        {
+          "wr_min": 82,
+          "xgb": 55,
+          "lgb": 63,
+          "count": 13,
+          "wr": 84.6
+        },
+        {
+          "wr_min": 84,
+          "xgb": 55,
+          "lgb": 63,
+          "count": 13,
+          "wr": 84.6
+        },
+        {
+          "wr_min": 86,
+          "xgb": 55,
+          "lgb": 69,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 88,
+          "xgb": 55,
+          "lgb": 69,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 90,
+          "xgb": 55,
+          "lgb": 69,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 92,
+          "xgb": 55,
+          "lgb": 69,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 94,
+          "xgb": 55,
+          "lgb": 69,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 96,
+          "xgb": 55,
+          "lgb": 69,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 98,
+          "xgb": 55,
+          "lgb": 69,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 100,
+          "xgb": 55,
+          "lgb": 69,
+          "count": 3,
+          "wr": 100.0
+        }
+      ],
+      "eslope_200": [
+        {
+          "wr_min": 70,
+          "xgb": 57,
+          "lgb": 61,
+          "count": 14,
+          "wr": 71.4
+        },
+        {
+          "wr_min": 72,
+          "xgb": 59,
+          "lgb": 61,
+          "count": 11,
+          "wr": 72.7
+        },
+        {
+          "wr_min": 74,
+          "xgb": 55,
+          "lgb": 62,
+          "count": 7,
+          "wr": 85.7
+        },
+        {
+          "wr_min": 76,
+          "xgb": 55,
+          "lgb": 62,
+          "count": 7,
+          "wr": 85.7
+        },
+        {
+          "wr_min": 78,
+          "xgb": 55,
+          "lgb": 62,
+          "count": 7,
+          "wr": 85.7
+        },
+        {
+          "wr_min": 80,
+          "xgb": 55,
+          "lgb": 62,
+          "count": 7,
+          "wr": 85.7
+        },
+        {
+          "wr_min": 82,
+          "xgb": 55,
+          "lgb": 62,
+          "count": 7,
+          "wr": 85.7
+        },
+        {
+          "wr_min": 84,
+          "xgb": 55,
+          "lgb": 62,
+          "count": 7,
+          "wr": 85.7
+        }
+      ],
+      "eslope_50": [
+        {
+          "wr_min": 70,
+          "xgb": 55,
+          "lgb": 62,
+          "count": 7,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 72,
+          "xgb": 55,
+          "lgb": 62,
+          "count": 7,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 74,
+          "xgb": 55,
+          "lgb": 62,
+          "count": 7,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 76,
+          "xgb": 55,
+          "lgb": 62,
+          "count": 7,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 78,
+          "xgb": 55,
+          "lgb": 62,
+          "count": 7,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 80,
+          "xgb": 55,
+          "lgb": 62,
+          "count": 7,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 82,
+          "xgb": 55,
+          "lgb": 62,
+          "count": 7,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 84,
+          "xgb": 55,
+          "lgb": 62,
+          "count": 7,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 86,
+          "xgb": 55,
+          "lgb": 62,
+          "count": 7,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 88,
+          "xgb": 55,
+          "lgb": 62,
+          "count": 7,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 90,
+          "xgb": 55,
+          "lgb": 62,
+          "count": 7,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 92,
+          "xgb": 55,
+          "lgb": 62,
+          "count": 7,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 94,
+          "xgb": 55,
+          "lgb": 62,
+          "count": 7,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 96,
+          "xgb": 55,
+          "lgb": 62,
+          "count": 7,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 98,
+          "xgb": 55,
+          "lgb": 62,
+          "count": 7,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 100,
+          "xgb": 55,
+          "lgb": 62,
+          "count": 7,
+          "wr": 100.0
+        }
+      ],
+      "eslope_all": [
+        {
+          "wr_min": 70,
+          "xgb": 55,
+          "lgb": 66,
+          "count": 5,
+          "wr": 80.0
+        },
+        {
+          "wr_min": 72,
+          "xgb": 55,
+          "lgb": 66,
+          "count": 5,
+          "wr": 80.0
+        },
+        {
+          "wr_min": 74,
+          "xgb": 55,
+          "lgb": 66,
+          "count": 5,
+          "wr": 80.0
+        },
+        {
+          "wr_min": 76,
+          "xgb": 55,
+          "lgb": 66,
+          "count": 5,
+          "wr": 80.0
+        },
+        {
+          "wr_min": 78,
+          "xgb": 55,
+          "lgb": 66,
+          "count": 5,
+          "wr": 80.0
+        },
+        {
+          "wr_min": 80,
+          "xgb": 55,
+          "lgb": 66,
+          "count": 5,
+          "wr": 80.0
+        },
+        {
+          "wr_min": 82,
+          "xgb": 65,
+          "lgb": 65,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 84,
+          "xgb": 65,
+          "lgb": 65,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 86,
+          "xgb": 65,
+          "lgb": 65,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 88,
+          "xgb": 65,
+          "lgb": 65,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 90,
+          "xgb": 65,
+          "lgb": 65,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 92,
+          "xgb": 65,
+          "lgb": 65,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 94,
+          "xgb": 65,
+          "lgb": 65,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 96,
+          "xgb": 65,
+          "lgb": 65,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 98,
+          "xgb": 65,
+          "lgb": 65,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 100,
+          "xgb": 65,
+          "lgb": 65,
+          "count": 3,
+          "wr": 100.0
+        }
+      ],
+      "esnap_fast": [
+        {
+          "wr_min": 70,
+          "xgb": 59,
+          "lgb": 60,
+          "count": 27,
+          "wr": 70.4
+        },
+        {
+          "wr_min": 72,
+          "xgb": 61,
+          "lgb": 59,
+          "count": 26,
+          "wr": 73.1
+        },
+        {
+          "wr_min": 74,
+          "xgb": 62,
+          "lgb": 58,
+          "count": 20,
+          "wr": 75.0
+        },
+        {
+          "wr_min": 76,
+          "xgb": 62,
+          "lgb": 59,
+          "count": 17,
+          "wr": 76.5
+        },
+        {
+          "wr_min": 78,
+          "xgb": 60,
+          "lgb": 61,
+          "count": 14,
+          "wr": 78.6
+        },
+        {
+          "wr_min": 80,
+          "xgb": 60,
+          "lgb": 62,
+          "count": 11,
+          "wr": 81.8
+        },
+        {
+          "wr_min": 82,
+          "xgb": 55,
+          "lgb": 63,
+          "count": 9,
+          "wr": 88.9
+        },
+        {
+          "wr_min": 84,
+          "xgb": 55,
+          "lgb": 63,
+          "count": 9,
+          "wr": 88.9
+        },
+        {
+          "wr_min": 86,
+          "xgb": 55,
+          "lgb": 63,
+          "count": 9,
+          "wr": 88.9
+        },
+        {
+          "wr_min": 88,
+          "xgb": 55,
+          "lgb": 63,
+          "count": 9,
+          "wr": 88.9
+        },
+        {
+          "wr_min": 90,
+          "xgb": 60,
+          "lgb": 63,
+          "count": 7,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 92,
+          "xgb": 60,
+          "lgb": 63,
+          "count": 7,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 94,
+          "xgb": 60,
+          "lgb": 63,
+          "count": 7,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 96,
+          "xgb": 60,
+          "lgb": 63,
+          "count": 7,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 98,
+          "xgb": 60,
+          "lgb": 63,
+          "count": 7,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 100,
+          "xgb": 60,
+          "lgb": 63,
+          "count": 7,
+          "wr": 100.0
+        }
+      ],
+      "esnap_sq": [
+        {
+          "wr_min": 70,
+          "xgb": 55,
+          "lgb": 63,
+          "count": 12,
+          "wr": 75.0
+        },
+        {
+          "wr_min": 72,
+          "xgb": 55,
+          "lgb": 63,
+          "count": 12,
+          "wr": 75.0
+        },
+        {
+          "wr_min": 74,
+          "xgb": 55,
+          "lgb": 63,
+          "count": 12,
+          "wr": 75.0
+        },
+        {
+          "wr_min": 76,
+          "xgb": 56,
+          "lgb": 63,
+          "count": 9,
+          "wr": 77.8
+        },
+        {
+          "wr_min": 78,
+          "xgb": 55,
+          "lgb": 64,
+          "count": 7,
+          "wr": 85.7
+        },
+        {
+          "wr_min": 80,
+          "xgb": 55,
+          "lgb": 64,
+          "count": 7,
+          "wr": 85.7
+        },
+        {
+          "wr_min": 82,
+          "xgb": 55,
+          "lgb": 64,
+          "count": 7,
+          "wr": 85.7
+        },
+        {
+          "wr_min": 84,
+          "xgb": 55,
+          "lgb": 64,
+          "count": 7,
+          "wr": 85.7
+        },
+        {
+          "wr_min": 86,
+          "xgb": 55,
+          "lgb": 66,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 88,
+          "xgb": 55,
+          "lgb": 66,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 90,
+          "xgb": 55,
+          "lgb": 66,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 92,
+          "xgb": 55,
+          "lgb": 66,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 94,
+          "xgb": 55,
+          "lgb": 66,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 96,
+          "xgb": 55,
+          "lgb": 66,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 98,
+          "xgb": 55,
+          "lgb": 66,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 100,
+          "xgb": 55,
+          "lgb": 66,
+          "count": 3,
+          "wr": 100.0
+        }
+      ],
+      "esnap_x50": [
+        {
+          "wr_min": 70,
+          "xgb": 58,
+          "lgb": 60,
+          "count": 20,
+          "wr": 70.0
+        },
+        {
+          "wr_min": 72,
+          "xgb": 55,
+          "lgb": 61,
+          "count": 15,
+          "wr": 73.3
+        },
+        {
+          "wr_min": 74,
+          "xgb": 61,
+          "lgb": 60,
+          "count": 12,
+          "wr": 75.0
+        },
+        {
+          "wr_min": 76,
+          "xgb": 62,
+          "lgb": 60,
+          "count": 11,
+          "wr": 81.8
+        },
+        {
+          "wr_min": 78,
+          "xgb": 62,
+          "lgb": 60,
+          "count": 11,
+          "wr": 81.8
+        },
+        {
+          "wr_min": 80,
+          "xgb": 62,
+          "lgb": 60,
+          "count": 11,
+          "wr": 81.8
+        },
+        {
+          "wr_min": 82,
+          "xgb": 63,
+          "lgb": 60,
+          "count": 8,
+          "wr": 87.5
+        },
+        {
+          "wr_min": 84,
+          "xgb": 63,
+          "lgb": 60,
+          "count": 8,
+          "wr": 87.5
+        },
+        {
+          "wr_min": 86,
+          "xgb": 63,
+          "lgb": 60,
+          "count": 8,
+          "wr": 87.5
+        },
+        {
+          "wr_min": 88,
+          "xgb": 55,
+          "lgb": 66,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 90,
+          "xgb": 55,
+          "lgb": 66,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 92,
+          "xgb": 55,
+          "lgb": 66,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 94,
+          "xgb": 55,
+          "lgb": 66,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 96,
+          "xgb": 55,
+          "lgb": 66,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 98,
+          "xgb": 55,
+          "lgb": 66,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 100,
+          "xgb": 55,
+          "lgb": 66,
+          "count": 3,
+          "wr": 100.0
+        }
+      ],
+      "espread_raw": [
+        {
+          "wr_min": 70,
+          "xgb": 62,
+          "lgb": 61,
+          "count": 10,
+          "wr": 70.0
+        },
+        {
+          "wr_min": 72,
+          "xgb": 62,
+          "lgb": 62,
+          "count": 6,
+          "wr": 83.3
+        },
+        {
+          "wr_min": 74,
+          "xgb": 62,
+          "lgb": 62,
+          "count": 6,
+          "wr": 83.3
+        },
+        {
+          "wr_min": 76,
+          "xgb": 62,
+          "lgb": 62,
+          "count": 6,
+          "wr": 83.3
+        },
+        {
+          "wr_min": 78,
+          "xgb": 62,
+          "lgb": 62,
+          "count": 6,
+          "wr": 83.3
+        },
+        {
+          "wr_min": 80,
+          "xgb": 62,
+          "lgb": 62,
+          "count": 6,
+          "wr": 83.3
+        },
+        {
+          "wr_min": 82,
+          "xgb": 62,
+          "lgb": 62,
+          "count": 6,
+          "wr": 83.3
+        }
+      ],
+      "espread_sqrt": [
+        {
+          "wr_min": 70,
+          "xgb": 62,
+          "lgb": 62,
+          "count": 4,
+          "wr": 75.0
+        },
+        {
+          "wr_min": 72,
+          "xgb": 62,
+          "lgb": 62,
+          "count": 4,
+          "wr": 75.0
+        },
+        {
+          "wr_min": 74,
+          "xgb": 62,
+          "lgb": 62,
+          "count": 4,
+          "wr": 75.0
+        }
+      ],
+      "mainv_clip": [
+        {
+          "wr_min": 70,
+          "xgb": 55,
+          "lgb": 60,
+          "count": 18,
+          "wr": 72.2
+        },
+        {
+          "wr_min": 72,
+          "xgb": 55,
+          "lgb": 60,
+          "count": 18,
+          "wr": 72.2
+        },
+        {
+          "wr_min": 74,
+          "xgb": 60,
+          "lgb": 60,
+          "count": 16,
+          "wr": 75.0
+        },
+        {
+          "wr_min": 76,
+          "xgb": 55,
+          "lgb": 61,
+          "count": 10,
+          "wr": 80.0
+        },
+        {
+          "wr_min": 78,
+          "xgb": 55,
+          "lgb": 61,
+          "count": 10,
+          "wr": 80.0
+        },
+        {
+          "wr_min": 80,
+          "xgb": 55,
+          "lgb": 61,
+          "count": 10,
+          "wr": 80.0
+        },
+        {
+          "wr_min": 82,
+          "xgb": 60,
+          "lgb": 61,
+          "count": 8,
+          "wr": 87.5
+        },
+        {
+          "wr_min": 84,
+          "xgb": 60,
+          "lgb": 61,
+          "count": 8,
+          "wr": 87.5
+        },
+        {
+          "wr_min": 86,
+          "xgb": 60,
+          "lgb": 61,
+          "count": 8,
+          "wr": 87.5
+        },
+        {
+          "wr_min": 88,
+          "xgb": 60,
+          "lgb": 62,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 90,
+          "xgb": 60,
+          "lgb": 62,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 92,
+          "xgb": 60,
+          "lgb": 62,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 94,
+          "xgb": 60,
+          "lgb": 62,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 96,
+          "xgb": 60,
+          "lgb": 62,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 98,
+          "xgb": 60,
+          "lgb": 62,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 100,
+          "xgb": 60,
+          "lgb": 62,
+          "count": 4,
+          "wr": 100.0
+        }
+      ],
+      "mainv_raw": [
+        {
+          "wr_min": 70,
+          "xgb": 61,
+          "lgb": 57,
+          "count": 30,
+          "wr": 70.0
+        },
+        {
+          "wr_min": 72,
+          "xgb": 62,
+          "lgb": 56,
+          "count": 25,
+          "wr": 72.0
+        },
+        {
+          "wr_min": 74,
+          "xgb": 62,
+          "lgb": 57,
+          "count": 21,
+          "wr": 76.2
+        },
+        {
+          "wr_min": 76,
+          "xgb": 62,
+          "lgb": 57,
+          "count": 21,
+          "wr": 76.2
+        },
+        {
+          "wr_min": 78,
+          "xgb": 59,
+          "lgb": 59,
+          "count": 14,
+          "wr": 78.6
+        },
+        {
+          "wr_min": 80,
+          "xgb": 60,
+          "lgb": 59,
+          "count": 13,
+          "wr": 84.6
+        },
+        {
+          "wr_min": 82,
+          "xgb": 60,
+          "lgb": 59,
+          "count": 13,
+          "wr": 84.6
+        },
+        {
+          "wr_min": 84,
+          "xgb": 60,
+          "lgb": 59,
+          "count": 13,
+          "wr": 84.6
+        },
+        {
+          "wr_min": 86,
+          "xgb": 64,
+          "lgb": 57,
+          "count": 9,
+          "wr": 88.9
+        },
+        {
+          "wr_min": 88,
+          "xgb": 64,
+          "lgb": 57,
+          "count": 9,
+          "wr": 88.9
+        },
+        {
+          "wr_min": 90,
+          "xgb": 55,
+          "lgb": 61,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 92,
+          "xgb": 55,
+          "lgb": 61,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 94,
+          "xgb": 55,
+          "lgb": 61,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 96,
+          "xgb": 55,
+          "lgb": 61,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 98,
+          "xgb": 55,
+          "lgb": 61,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 100,
+          "xgb": 55,
+          "lgb": 61,
+          "count": 5,
+          "wr": 100.0
+        }
+      ],
+      "mainv_sqrt": [
+        {
+          "wr_min": 70,
+          "xgb": 58,
+          "lgb": 62,
+          "count": 12,
+          "wr": 75.0
+        },
+        {
+          "wr_min": 72,
+          "xgb": 58,
+          "lgb": 62,
+          "count": 12,
+          "wr": 75.0
+        },
+        {
+          "wr_min": 74,
+          "xgb": 58,
+          "lgb": 62,
+          "count": 12,
+          "wr": 75.0
+        },
+        {
+          "wr_min": 76,
+          "xgb": 56,
+          "lgb": 63,
+          "count": 10,
+          "wr": 80.0
+        },
+        {
+          "wr_min": 78,
+          "xgb": 56,
+          "lgb": 63,
+          "count": 10,
+          "wr": 80.0
+        },
+        {
+          "wr_min": 80,
+          "xgb": 56,
+          "lgb": 63,
+          "count": 10,
+          "wr": 80.0
+        },
+        {
+          "wr_min": 82,
+          "xgb": 57,
+          "lgb": 63,
+          "count": 9,
+          "wr": 88.9
+        },
+        {
+          "wr_min": 84,
+          "xgb": 57,
+          "lgb": 63,
+          "count": 9,
+          "wr": 88.9
+        },
+        {
+          "wr_min": 86,
+          "xgb": 57,
+          "lgb": 63,
+          "count": 9,
+          "wr": 88.9
+        },
+        {
+          "wr_min": 88,
+          "xgb": 57,
+          "lgb": 63,
+          "count": 9,
+          "wr": 88.9
+        },
+        {
+          "wr_min": 90,
+          "xgb": 60,
+          "lgb": 59,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 92,
+          "xgb": 60,
+          "lgb": 59,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 94,
+          "xgb": 60,
+          "lgb": 59,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 96,
+          "xgb": 60,
+          "lgb": 59,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 98,
+          "xgb": 60,
+          "lgb": 59,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 100,
+          "xgb": 60,
+          "lgb": 59,
+          "count": 5,
+          "wr": 100.0
+        }
+      ],
+      "maprox_eps001": [
+        {
+          "wr_min": 70,
+          "xgb": 56,
+          "lgb": 62,
+          "count": 29,
+          "wr": 72.4
+        },
+        {
+          "wr_min": 72,
+          "xgb": 56,
+          "lgb": 62,
+          "count": 29,
+          "wr": 72.4
+        },
+        {
+          "wr_min": 74,
+          "xgb": 57,
+          "lgb": 62,
+          "count": 25,
+          "wr": 76.0
+        },
+        {
+          "wr_min": 76,
+          "xgb": 57,
+          "lgb": 62,
+          "count": 25,
+          "wr": 76.0
+        },
+        {
+          "wr_min": 78,
+          "xgb": 55,
+          "lgb": 63,
+          "count": 15,
+          "wr": 80.0
+        },
+        {
+          "wr_min": 80,
+          "xgb": 55,
+          "lgb": 63,
+          "count": 15,
+          "wr": 80.0
+        },
+        {
+          "wr_min": 82,
+          "xgb": 55,
+          "lgb": 64,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 84,
+          "xgb": 55,
+          "lgb": 64,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 86,
+          "xgb": 55,
+          "lgb": 64,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 88,
+          "xgb": 55,
+          "lgb": 64,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 90,
+          "xgb": 55,
+          "lgb": 64,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 92,
+          "xgb": 55,
+          "lgb": 64,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 94,
+          "xgb": 55,
+          "lgb": 64,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 96,
+          "xgb": 55,
+          "lgb": 64,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 98,
+          "xgb": 55,
+          "lgb": 64,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 100,
+          "xgb": 55,
+          "lgb": 64,
+          "count": 3,
+          "wr": 100.0
+        }
+      ],
+      "move_0.01": [
+        {
+          "wr_min": 70,
+          "xgb": 55,
+          "lgb": 66,
+          "count": 99,
+          "wr": 70.7
+        },
+        {
+          "wr_min": 72,
+          "xgb": 55,
+          "lgb": 67,
+          "count": 82,
+          "wr": 73.2
+        },
+        {
+          "wr_min": 74,
+          "xgb": 66,
+          "lgb": 67,
+          "count": 60,
+          "wr": 76.7
+        },
+        {
+          "wr_min": 76,
+          "xgb": 66,
+          "lgb": 67,
+          "count": 60,
+          "wr": 76.7
+        },
+        {
+          "wr_min": 78,
+          "xgb": 72,
+          "lgb": 55,
+          "count": 7,
+          "wr": 85.7
+        },
+        {
+          "wr_min": 80,
+          "xgb": 72,
+          "lgb": 55,
+          "count": 7,
+          "wr": 85.7
+        },
+        {
+          "wr_min": 82,
+          "xgb": 72,
+          "lgb": 55,
+          "count": 7,
+          "wr": 85.7
+        },
+        {
+          "wr_min": 84,
+          "xgb": 72,
+          "lgb": 55,
+          "count": 7,
+          "wr": 85.7
+        },
+        {
+          "wr_min": 86,
+          "xgb": 73,
+          "lgb": 55,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 88,
+          "xgb": 73,
+          "lgb": 55,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 90,
+          "xgb": 73,
+          "lgb": 55,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 92,
+          "xgb": 73,
+          "lgb": 55,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 94,
+          "xgb": 73,
+          "lgb": 55,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 96,
+          "xgb": 73,
+          "lgb": 55,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 98,
+          "xgb": 73,
+          "lgb": 55,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 100,
+          "xgb": 73,
+          "lgb": 55,
+          "count": 3,
+          "wr": 100.0
+        }
+      ],
+      "move_0.05": [
+        {
+          "wr_min": 70,
+          "xgb": 72,
+          "lgb": 57,
+          "count": 60,
+          "wr": 70.0
+        },
+        {
+          "wr_min": 72,
+          "xgb": 73,
+          "lgb": 55,
+          "count": 42,
+          "wr": 73.8
+        },
+        {
+          "wr_min": 74,
+          "xgb": 73,
+          "lgb": 72,
+          "count": 24,
+          "wr": 75.0
+        },
+        {
+          "wr_min": 76,
+          "xgb": 74,
+          "lgb": 72,
+          "count": 22,
+          "wr": 77.3
+        },
+        {
+          "wr_min": 78,
+          "xgb": 73,
+          "lgb": 75,
+          "count": 21,
+          "wr": 81.0
+        },
+        {
+          "wr_min": 80,
+          "xgb": 73,
+          "lgb": 75,
+          "count": 21,
+          "wr": 81.0
+        },
+        {
+          "wr_min": 82,
+          "xgb": 73,
+          "lgb": 76,
+          "count": 17,
+          "wr": 82.4
+        },
+        {
+          "wr_min": 84,
+          "xgb": 78,
+          "lgb": 55,
+          "count": 9,
+          "wr": 88.9
+        },
+        {
+          "wr_min": 86,
+          "xgb": 78,
+          "lgb": 55,
+          "count": 9,
+          "wr": 88.9
+        },
+        {
+          "wr_min": 88,
+          "xgb": 78,
+          "lgb": 55,
+          "count": 9,
+          "wr": 88.9
+        },
+        {
+          "wr_min": 90,
+          "xgb": 81,
+          "lgb": 55,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 92,
+          "xgb": 81,
+          "lgb": 55,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 94,
+          "xgb": 81,
+          "lgb": 55,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 96,
+          "xgb": 81,
+          "lgb": 55,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 98,
+          "xgb": 81,
+          "lgb": 55,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 100,
+          "xgb": 81,
+          "lgb": 55,
+          "count": 3,
+          "wr": 100.0
+        }
+      ],
+      "move_0.1": [
+        {
+          "wr_min": 70,
+          "xgb": 60,
+          "lgb": 61,
+          "count": 11,
+          "wr": 81.8
+        },
+        {
+          "wr_min": 72,
+          "xgb": 60,
+          "lgb": 61,
+          "count": 11,
+          "wr": 81.8
+        },
+        {
+          "wr_min": 74,
+          "xgb": 60,
+          "lgb": 61,
+          "count": 11,
+          "wr": 81.8
+        },
+        {
+          "wr_min": 76,
+          "xgb": 60,
+          "lgb": 61,
+          "count": 11,
+          "wr": 81.8
+        },
+        {
+          "wr_min": 78,
+          "xgb": 60,
+          "lgb": 61,
+          "count": 11,
+          "wr": 81.8
+        },
+        {
+          "wr_min": 80,
+          "xgb": 60,
+          "lgb": 61,
+          "count": 11,
+          "wr": 81.8
+        },
+        {
+          "wr_min": 82,
+          "xgb": 61,
+          "lgb": 61,
+          "count": 7,
+          "wr": 85.7
+        },
+        {
+          "wr_min": 84,
+          "xgb": 61,
+          "lgb": 61,
+          "count": 7,
+          "wr": 85.7
+        }
+      ],
+      "move_0.2": [
+        {
+          "wr_min": 70,
+          "xgb": 55,
+          "lgb": 63,
+          "count": 7,
+          "wr": 71.4
+        },
+        {
+          "wr_min": 72,
+          "xgb": 55,
+          "lgb": 64,
+          "count": 4,
+          "wr": 75.0
+        },
+        {
+          "wr_min": 74,
+          "xgb": 55,
+          "lgb": 64,
+          "count": 4,
+          "wr": 75.0
+        }
+      ],
+      "move_0.5": [
+        {
+          "wr_min": 70,
+          "xgb": 61,
+          "lgb": 60,
+          "count": 27,
+          "wr": 70.4
+        },
+        {
+          "wr_min": 72,
+          "xgb": 55,
+          "lgb": 63,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 74,
+          "xgb": 55,
+          "lgb": 63,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 76,
+          "xgb": 55,
+          "lgb": 63,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 78,
+          "xgb": 55,
+          "lgb": 63,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 80,
+          "xgb": 55,
+          "lgb": 63,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 82,
+          "xgb": 55,
+          "lgb": 63,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 84,
+          "xgb": 55,
+          "lgb": 63,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 86,
+          "xgb": 55,
+          "lgb": 63,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 88,
+          "xgb": 55,
+          "lgb": 63,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 90,
+          "xgb": 55,
+          "lgb": 63,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 92,
+          "xgb": 55,
+          "lgb": 63,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 94,
+          "xgb": 55,
+          "lgb": 63,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 96,
+          "xgb": 55,
+          "lgb": 63,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 98,
+          "xgb": 55,
+          "lgb": 63,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 100,
+          "xgb": 55,
+          "lgb": 63,
+          "count": 4,
+          "wr": 100.0
+        }
+      ],
+      "oversold_inv_clip": [
+        {
+          "wr_min": 70,
+          "xgb": 72,
+          "lgb": 69,
+          "count": 64,
+          "wr": 70.3
+        },
+        {
+          "wr_min": 72,
+          "xgb": 75,
+          "lgb": 74,
+          "count": 25,
+          "wr": 72.0
+        },
+        {
+          "wr_min": 74,
+          "xgb": 75,
+          "lgb": 75,
+          "count": 17,
+          "wr": 76.5
+        },
+        {
+          "wr_min": 76,
+          "xgb": 75,
+          "lgb": 75,
+          "count": 17,
+          "wr": 76.5
+        }
+      ],
+      "oversold_inv_sq": [
+        {
+          "wr_min": 70,
+          "xgb": 55,
+          "lgb": 59,
+          "count": 15,
+          "wr": 73.3
+        },
+        {
+          "wr_min": 72,
+          "xgb": 55,
+          "lgb": 59,
+          "count": 15,
+          "wr": 73.3
+        },
+        {
+          "wr_min": 74,
+          "xgb": 56,
+          "lgb": 59,
+          "count": 14,
+          "wr": 78.6
+        },
+        {
+          "wr_min": 76,
+          "xgb": 56,
+          "lgb": 59,
+          "count": 14,
+          "wr": 78.6
+        },
+        {
+          "wr_min": 78,
+          "xgb": 56,
+          "lgb": 59,
+          "count": 14,
+          "wr": 78.6
+        }
+      ],
+      "oversold_inv_sqrt": [
+        {
+          "wr_min": 70,
+          "xgb": 60,
+          "lgb": 61,
+          "count": 4,
+          "wr": 75.0
+        },
+        {
+          "wr_min": 72,
+          "xgb": 60,
+          "lgb": 61,
+          "count": 4,
+          "wr": 75.0
+        },
+        {
+          "wr_min": 74,
+          "xgb": 60,
+          "lgb": 61,
+          "count": 4,
+          "wr": 75.0
+        }
+      ],
+      "rsi7slope_abs": [
+        {
+          "wr_min": 70,
+          "xgb": 59,
+          "lgb": 59,
+          "count": 10,
+          "wr": 70.0
+        },
+        {
+          "wr_min": 72,
+          "xgb": 55,
+          "lgb": 61,
+          "count": 5,
+          "wr": 80.0
+        },
+        {
+          "wr_min": 74,
+          "xgb": 55,
+          "lgb": 61,
+          "count": 5,
+          "wr": 80.0
+        },
+        {
+          "wr_min": 76,
+          "xgb": 55,
+          "lgb": 61,
+          "count": 5,
+          "wr": 80.0
+        },
+        {
+          "wr_min": 78,
+          "xgb": 55,
+          "lgb": 61,
+          "count": 5,
+          "wr": 80.0
+        },
+        {
+          "wr_min": 80,
+          "xgb": 55,
+          "lgb": 61,
+          "count": 5,
+          "wr": 80.0
+        },
+        {
+          "wr_min": 82,
+          "xgb": 59,
+          "lgb": 60,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 84,
+          "xgb": 59,
+          "lgb": 60,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 86,
+          "xgb": 59,
+          "lgb": 60,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 88,
+          "xgb": 59,
+          "lgb": 60,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 90,
+          "xgb": 59,
+          "lgb": 60,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 92,
+          "xgb": 59,
+          "lgb": 60,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 94,
+          "xgb": 59,
+          "lgb": 60,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 96,
+          "xgb": 59,
+          "lgb": 60,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 98,
+          "xgb": 59,
+          "lgb": 60,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 100,
+          "xgb": 59,
+          "lgb": 60,
+          "count": 3,
+          "wr": 100.0
+        }
+      ],
+      "rsi7slope_clip": [
+        {
+          "wr_min": 70,
+          "xgb": 74,
+          "lgb": 64,
+          "count": 52,
+          "wr": 71.2
+        },
+        {
+          "wr_min": 72,
+          "xgb": 74,
+          "lgb": 70,
+          "count": 36,
+          "wr": 72.2
+        },
+        {
+          "wr_min": 74,
+          "xgb": 77,
+          "lgb": 70,
+          "count": 20,
+          "wr": 75.0
+        },
+        {
+          "wr_min": 76,
+          "xgb": 81,
+          "lgb": 59,
+          "count": 9,
+          "wr": 77.8
+        },
+        {
+          "wr_min": 78,
+          "xgb": 74,
+          "lgb": 80,
+          "count": 6,
+          "wr": 83.3
+        },
+        {
+          "wr_min": 80,
+          "xgb": 74,
+          "lgb": 80,
+          "count": 6,
+          "wr": 83.3
+        },
+        {
+          "wr_min": 82,
+          "xgb": 74,
+          "lgb": 80,
+          "count": 6,
+          "wr": 83.3
+        }
+      ],
+      "rsi7slope_sqrt": [
+        {
+          "wr_min": 70,
+          "xgb": 58,
+          "lgb": 60,
+          "count": 20,
+          "wr": 70.0
+        },
+        {
+          "wr_min": 72,
+          "xgb": 58,
+          "lgb": 61,
+          "count": 8,
+          "wr": 75.0
+        },
+        {
+          "wr_min": 74,
+          "xgb": 58,
+          "lgb": 61,
+          "count": 8,
+          "wr": 75.0
+        }
+      ],
+      "streak_log": [
+        {
+          "wr_min": 70,
+          "xgb": 62,
+          "lgb": 57,
+          "count": 20,
+          "wr": 70.0
+        },
+        {
+          "wr_min": 72,
+          "xgb": 62,
+          "lgb": 58,
+          "count": 18,
+          "wr": 72.2
+        },
+        {
+          "wr_min": 74,
+          "xgb": 60,
+          "lgb": 62,
+          "count": 4,
+          "wr": 75.0
+        }
+      ],
+      "volratio_clip": [
+        {
+          "wr_min": 70,
+          "xgb": 65,
+          "lgb": 60,
+          "count": 7,
+          "wr": 71.4
+        },
+        {
+          "wr_min": 72,
+          "xgb": 55,
+          "lgb": 64,
+          "count": 5,
+          "wr": 80.0
+        },
+        {
+          "wr_min": 74,
+          "xgb": 55,
+          "lgb": 64,
+          "count": 5,
+          "wr": 80.0
+        },
+        {
+          "wr_min": 76,
+          "xgb": 55,
+          "lgb": 64,
+          "count": 5,
+          "wr": 80.0
+        },
+        {
+          "wr_min": 78,
+          "xgb": 55,
+          "lgb": 64,
+          "count": 5,
+          "wr": 80.0
+        },
+        {
+          "wr_min": 80,
+          "xgb": 55,
+          "lgb": 64,
+          "count": 5,
+          "wr": 80.0
+        },
+        {
+          "wr_min": 82,
+          "xgb": 55,
+          "lgb": 65,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 84,
+          "xgb": 55,
+          "lgb": 65,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 86,
+          "xgb": 55,
+          "lgb": 65,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 88,
+          "xgb": 55,
+          "lgb": 65,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 90,
+          "xgb": 55,
+          "lgb": 65,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 92,
+          "xgb": 55,
+          "lgb": 65,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 94,
+          "xgb": 55,
+          "lgb": 65,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 96,
+          "xgb": 55,
+          "lgb": 65,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 98,
+          "xgb": 55,
+          "lgb": 65,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 100,
+          "xgb": 55,
+          "lgb": 65,
+          "count": 3,
+          "wr": 100.0
+        }
+      ],
+      "volratio_raw": [
+        {
+          "wr_min": 70,
+          "xgb": 55,
+          "lgb": 63,
+          "count": 11,
+          "wr": 72.7
+        },
+        {
+          "wr_min": 72,
+          "xgb": 55,
+          "lgb": 63,
+          "count": 11,
+          "wr": 72.7
+        },
+        {
+          "wr_min": 74,
+          "xgb": 61,
+          "lgb": 63,
+          "count": 9,
+          "wr": 77.8
+        },
+        {
+          "wr_min": 76,
+          "xgb": 61,
+          "lgb": 63,
+          "count": 9,
+          "wr": 77.8
+        },
+        {
+          "wr_min": 78,
+          "xgb": 55,
+          "lgb": 64,
+          "count": 5,
+          "wr": 80.0
+        },
+        {
+          "wr_min": 80,
+          "xgb": 55,
+          "lgb": 64,
+          "count": 5,
+          "wr": 80.0
+        }
+      ],
+      "wick_lower_clip1": [
+        {
+          "wr_min": 70,
+          "xgb": 59,
+          "lgb": 57,
+          "count": 18,
+          "wr": 72.2
+        },
+        {
+          "wr_min": 72,
+          "xgb": 59,
+          "lgb": 57,
+          "count": 18,
+          "wr": 72.2
+        },
+        {
+          "wr_min": 74,
+          "xgb": 59,
+          "lgb": 58,
+          "count": 13,
+          "wr": 76.9
+        },
+        {
+          "wr_min": 76,
+          "xgb": 59,
+          "lgb": 58,
+          "count": 13,
+          "wr": 76.9
+        },
+        {
+          "wr_min": 78,
+          "xgb": 60,
+          "lgb": 58,
+          "count": 6,
+          "wr": 83.3
+        },
+        {
+          "wr_min": 80,
+          "xgb": 60,
+          "lgb": 58,
+          "count": 6,
+          "wr": 83.3
+        },
+        {
+          "wr_min": 82,
+          "xgb": 60,
+          "lgb": 58,
+          "count": 6,
+          "wr": 83.3
+        },
+        {
+          "wr_min": 84,
+          "xgb": 61,
+          "lgb": 55,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 86,
+          "xgb": 61,
+          "lgb": 55,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 88,
+          "xgb": 61,
+          "lgb": 55,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 90,
+          "xgb": 61,
+          "lgb": 55,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 92,
+          "xgb": 61,
+          "lgb": 55,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 94,
+          "xgb": 61,
+          "lgb": 55,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 96,
+          "xgb": 61,
+          "lgb": 55,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 98,
+          "xgb": 61,
+          "lgb": 55,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 100,
+          "xgb": 61,
+          "lgb": 55,
+          "count": 5,
+          "wr": 100.0
+        }
+      ],
+      "wick_total_clip01": [
+        {
+          "wr_min": 70,
+          "xgb": 57,
+          "lgb": 59,
+          "count": 24,
+          "wr": 70.8
+        },
+        {
+          "wr_min": 72,
+          "xgb": 58,
+          "lgb": 59,
+          "count": 16,
+          "wr": 75.0
+        },
+        {
+          "wr_min": 74,
+          "xgb": 58,
+          "lgb": 59,
+          "count": 16,
+          "wr": 75.0
+        },
+        {
+          "wr_min": 76,
+          "xgb": 59,
+          "lgb": 59,
+          "count": 9,
+          "wr": 77.8
+        },
+        {
+          "wr_min": 78,
+          "xgb": 60,
+          "lgb": 55,
+          "count": 6,
+          "wr": 83.3
+        },
+        {
+          "wr_min": 80,
+          "xgb": 60,
+          "lgb": 55,
+          "count": 6,
+          "wr": 83.3
+        },
+        {
+          "wr_min": 82,
+          "xgb": 60,
+          "lgb": 55,
+          "count": 6,
+          "wr": 83.3
+        }
+      ],
+      "wick_total_clip1": [
+        {
+          "wr_min": 70,
+          "xgb": 58,
+          "lgb": 55,
+          "count": 6,
+          "wr": 83.3
+        },
+        {
+          "wr_min": 72,
+          "xgb": 58,
+          "lgb": 55,
+          "count": 6,
+          "wr": 83.3
+        },
+        {
+          "wr_min": 74,
+          "xgb": 58,
+          "lgb": 55,
+          "count": 6,
+          "wr": 83.3
+        },
+        {
+          "wr_min": 76,
+          "xgb": 58,
+          "lgb": 55,
+          "count": 6,
+          "wr": 83.3
+        },
+        {
+          "wr_min": 78,
+          "xgb": 58,
+          "lgb": 55,
+          "count": 6,
+          "wr": 83.3
+        },
+        {
+          "wr_min": 80,
+          "xgb": 58,
+          "lgb": 55,
+          "count": 6,
+          "wr": 83.3
+        },
+        {
+          "wr_min": 82,
+          "xgb": 58,
+          "lgb": 55,
+          "count": 6,
+          "wr": 83.3
+        },
+        {
+          "wr_min": 84,
+          "xgb": 58,
+          "lgb": 56,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 86,
+          "xgb": 58,
+          "lgb": 56,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 88,
+          "xgb": 58,
+          "lgb": 56,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 90,
+          "xgb": 58,
+          "lgb": 56,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 92,
+          "xgb": 58,
+          "lgb": 56,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 94,
+          "xgb": 58,
+          "lgb": 56,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 96,
+          "xgb": 58,
+          "lgb": 56,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 98,
+          "xgb": 58,
+          "lgb": 56,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 100,
+          "xgb": 58,
+          "lgb": 56,
+          "count": 5,
+          "wr": 100.0
+        }
+      ],
+      "wick_total_sqrt": [
+        {
+          "wr_min": 70,
+          "xgb": 61,
+          "lgb": 55,
+          "count": 7,
+          "wr": 85.7
+        },
+        {
+          "wr_min": 72,
+          "xgb": 61,
+          "lgb": 55,
+          "count": 7,
+          "wr": 85.7
+        },
+        {
+          "wr_min": 74,
+          "xgb": 61,
+          "lgb": 55,
+          "count": 7,
+          "wr": 85.7
+        },
+        {
+          "wr_min": 76,
+          "xgb": 61,
+          "lgb": 55,
+          "count": 7,
+          "wr": 85.7
+        },
+        {
+          "wr_min": 78,
+          "xgb": 61,
+          "lgb": 55,
+          "count": 7,
+          "wr": 85.7
+        },
+        {
+          "wr_min": 80,
+          "xgb": 61,
+          "lgb": 55,
+          "count": 7,
+          "wr": 85.7
+        },
+        {
+          "wr_min": 82,
+          "xgb": 61,
+          "lgb": 55,
+          "count": 7,
+          "wr": 85.7
+        },
+        {
+          "wr_min": 84,
+          "xgb": 61,
+          "lgb": 55,
+          "count": 7,
+          "wr": 85.7
+        },
+        {
+          "wr_min": 86,
+          "xgb": 61,
+          "lgb": 59,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 88,
+          "xgb": 61,
+          "lgb": 59,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 90,
+          "xgb": 61,
+          "lgb": 59,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 92,
+          "xgb": 61,
+          "lgb": 59,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 94,
+          "xgb": 61,
+          "lgb": 59,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 96,
+          "xgb": 61,
+          "lgb": 59,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 98,
+          "xgb": 61,
+          "lgb": 59,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 100,
+          "xgb": 61,
+          "lgb": 59,
+          "count": 5,
+          "wr": 100.0
+        }
+      ],
+      "wick_upper_clip1": [
+        {
+          "wr_min": 70,
+          "xgb": 61,
+          "lgb": 65,
+          "count": 4,
+          "wr": 75.0
+        },
+        {
+          "wr_min": 72,
+          "xgb": 61,
+          "lgb": 65,
+          "count": 4,
+          "wr": 75.0
+        },
+        {
+          "wr_min": 74,
+          "xgb": 61,
+          "lgb": 65,
+          "count": 4,
+          "wr": 75.0
+        }
+      ]
+    },
+    "down": {
+      "bigbody_clip01": [
+        {
+          "wr_min": 70,
+          "xgb": 59,
+          "lgb": 55,
+          "count": 22,
+          "wr": 72.7
+        },
+        {
+          "wr_min": 72,
+          "xgb": 59,
+          "lgb": 55,
+          "count": 22,
+          "wr": 72.7
+        },
+        {
+          "wr_min": 74,
+          "xgb": 55,
+          "lgb": 58,
+          "count": 14,
+          "wr": 78.6
+        },
+        {
+          "wr_min": 76,
+          "xgb": 55,
+          "lgb": 58,
+          "count": 14,
+          "wr": 78.6
+        },
+        {
+          "wr_min": 78,
+          "xgb": 55,
+          "lgb": 58,
+          "count": 14,
+          "wr": 78.6
+        },
+        {
+          "wr_min": 80,
+          "xgb": 58,
+          "lgb": 57,
+          "count": 11,
+          "wr": 81.8
+        },
+        {
+          "wr_min": 82,
+          "xgb": 58,
+          "lgb": 58,
+          "count": 10,
+          "wr": 90.0
+        },
+        {
+          "wr_min": 84,
+          "xgb": 58,
+          "lgb": 58,
+          "count": 10,
+          "wr": 90.0
+        },
+        {
+          "wr_min": 86,
+          "xgb": 58,
+          "lgb": 58,
+          "count": 10,
+          "wr": 90.0
+        },
+        {
+          "wr_min": 88,
+          "xgb": 58,
+          "lgb": 58,
+          "count": 10,
+          "wr": 90.0
+        },
+        {
+          "wr_min": 90,
+          "xgb": 58,
+          "lgb": 58,
+          "count": 10,
+          "wr": 90.0
+        },
+        {
+          "wr_min": 92,
+          "xgb": 60,
+          "lgb": 58,
+          "count": 6,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 94,
+          "xgb": 60,
+          "lgb": 58,
+          "count": 6,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 96,
+          "xgb": 60,
+          "lgb": 58,
+          "count": 6,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 98,
+          "xgb": 60,
+          "lgb": 58,
+          "count": 6,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 100,
+          "xgb": 60,
+          "lgb": 58,
+          "count": 6,
+          "wr": 100.0
+        }
+      ],
+      "bigbody_clip1": [
+        {
+          "wr_min": 70,
+          "xgb": 55,
+          "lgb": 56,
+          "count": 12,
+          "wr": 75.0
+        },
+        {
+          "wr_min": 72,
+          "xgb": 55,
+          "lgb": 56,
+          "count": 12,
+          "wr": 75.0
+        },
+        {
+          "wr_min": 74,
+          "xgb": 55,
+          "lgb": 56,
+          "count": 12,
+          "wr": 75.0
+        },
+        {
+          "wr_min": 76,
+          "xgb": 55,
+          "lgb": 57,
+          "count": 6,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 78,
+          "xgb": 55,
+          "lgb": 57,
+          "count": 6,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 80,
+          "xgb": 55,
+          "lgb": 57,
+          "count": 6,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 82,
+          "xgb": 55,
+          "lgb": 57,
+          "count": 6,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 84,
+          "xgb": 55,
+          "lgb": 57,
+          "count": 6,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 86,
+          "xgb": 55,
+          "lgb": 57,
+          "count": 6,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 88,
+          "xgb": 55,
+          "lgb": 57,
+          "count": 6,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 90,
+          "xgb": 55,
+          "lgb": 57,
+          "count": 6,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 92,
+          "xgb": 55,
+          "lgb": 57,
+          "count": 6,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 94,
+          "xgb": 55,
+          "lgb": 57,
+          "count": 6,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 96,
+          "xgb": 55,
+          "lgb": 57,
+          "count": 6,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 98,
+          "xgb": 55,
+          "lgb": 57,
+          "count": 6,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 100,
+          "xgb": 55,
+          "lgb": 57,
+          "count": 6,
+          "wr": 100.0
+        }
+      ],
+      "bigbody_clip3": [
+        {
+          "wr_min": 70,
+          "xgb": 59,
+          "lgb": 58,
+          "count": 10,
+          "wr": 70.0
+        },
+        {
+          "wr_min": 72,
+          "xgb": 60,
+          "lgb": 56,
+          "count": 9,
+          "wr": 77.8
+        },
+        {
+          "wr_min": 74,
+          "xgb": 60,
+          "lgb": 56,
+          "count": 9,
+          "wr": 77.8
+        },
+        {
+          "wr_min": 76,
+          "xgb": 60,
+          "lgb": 56,
+          "count": 9,
+          "wr": 77.8
+        },
+        {
+          "wr_min": 78,
+          "xgb": 55,
+          "lgb": 59,
+          "count": 7,
+          "wr": 85.7
+        },
+        {
+          "wr_min": 80,
+          "xgb": 55,
+          "lgb": 59,
+          "count": 7,
+          "wr": 85.7
+        },
+        {
+          "wr_min": 82,
+          "xgb": 55,
+          "lgb": 59,
+          "count": 7,
+          "wr": 85.7
+        },
+        {
+          "wr_min": 84,
+          "xgb": 55,
+          "lgb": 59,
+          "count": 7,
+          "wr": 85.7
+        },
+        {
+          "wr_min": 86,
+          "xgb": 55,
+          "lgb": 60,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 88,
+          "xgb": 55,
+          "lgb": 60,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 90,
+          "xgb": 55,
+          "lgb": 60,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 92,
+          "xgb": 55,
+          "lgb": 60,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 94,
+          "xgb": 55,
+          "lgb": 60,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 96,
+          "xgb": 55,
+          "lgb": 60,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 98,
+          "xgb": 55,
+          "lgb": 60,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 100,
+          "xgb": 55,
+          "lgb": 60,
+          "count": 5,
+          "wr": 100.0
+        }
+      ],
+      "eband_over2": [
+        {
+          "wr_min": 70,
+          "xgb": 58,
+          "lgb": 57,
+          "count": 12,
+          "wr": 75.0
+        },
+        {
+          "wr_min": 72,
+          "xgb": 58,
+          "lgb": 57,
+          "count": 12,
+          "wr": 75.0
+        },
+        {
+          "wr_min": 74,
+          "xgb": 58,
+          "lgb": 57,
+          "count": 12,
+          "wr": 75.0
+        }
+      ],
+      "ecross_20200": [
+        {
+          "wr_min": 70,
+          "xgb": 59,
+          "lgb": 55,
+          "count": 8,
+          "wr": 75.0
+        },
+        {
+          "wr_min": 72,
+          "xgb": 59,
+          "lgb": 55,
+          "count": 8,
+          "wr": 75.0
+        },
+        {
+          "wr_min": 74,
+          "xgb": 59,
+          "lgb": 55,
+          "count": 8,
+          "wr": 75.0
+        },
+        {
+          "wr_min": 76,
+          "xgb": 59,
+          "lgb": 56,
+          "count": 6,
+          "wr": 83.3
+        },
+        {
+          "wr_min": 78,
+          "xgb": 59,
+          "lgb": 56,
+          "count": 6,
+          "wr": 83.3
+        },
+        {
+          "wr_min": 80,
+          "xgb": 59,
+          "lgb": 56,
+          "count": 6,
+          "wr": 83.3
+        },
+        {
+          "wr_min": 82,
+          "xgb": 59,
+          "lgb": 56,
+          "count": 6,
+          "wr": 83.3
+        },
+        {
+          "wr_min": 84,
+          "xgb": 55,
+          "lgb": 57,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 86,
+          "xgb": 55,
+          "lgb": 57,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 88,
+          "xgb": 55,
+          "lgb": 57,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 90,
+          "xgb": 55,
+          "lgb": 57,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 92,
+          "xgb": 55,
+          "lgb": 57,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 94,
+          "xgb": 55,
+          "lgb": 57,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 96,
+          "xgb": 55,
+          "lgb": 57,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 98,
+          "xgb": 55,
+          "lgb": 57,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 100,
+          "xgb": 55,
+          "lgb": 57,
+          "count": 4,
+          "wr": 100.0
+        }
+      ],
+      "ecross_2050": [
+        {
+          "wr_min": 70,
+          "xgb": 56,
+          "lgb": 59,
+          "count": 11,
+          "wr": 72.7
+        },
+        {
+          "wr_min": 72,
+          "xgb": 56,
+          "lgb": 59,
+          "count": 11,
+          "wr": 72.7
+        },
+        {
+          "wr_min": 74,
+          "xgb": 59,
+          "lgb": 59,
+          "count": 7,
+          "wr": 85.7
+        },
+        {
+          "wr_min": 76,
+          "xgb": 59,
+          "lgb": 59,
+          "count": 7,
+          "wr": 85.7
+        },
+        {
+          "wr_min": 78,
+          "xgb": 59,
+          "lgb": 59,
+          "count": 7,
+          "wr": 85.7
+        },
+        {
+          "wr_min": 80,
+          "xgb": 59,
+          "lgb": 59,
+          "count": 7,
+          "wr": 85.7
+        },
+        {
+          "wr_min": 82,
+          "xgb": 59,
+          "lgb": 59,
+          "count": 7,
+          "wr": 85.7
+        },
+        {
+          "wr_min": 84,
+          "xgb": 59,
+          "lgb": 59,
+          "count": 7,
+          "wr": 85.7
+        }
+      ],
+      "ecross_50200": [
+        {
+          "wr_min": 70,
+          "xgb": 55,
+          "lgb": 58,
+          "count": 52,
+          "wr": 71.2
+        },
+        {
+          "wr_min": 72,
+          "xgb": 56,
+          "lgb": 57,
+          "count": 37,
+          "wr": 73.0
+        },
+        {
+          "wr_min": 74,
+          "xgb": 58,
+          "lgb": 55,
+          "count": 8,
+          "wr": 75.0
+        }
+      ],
+      "edev_20sq": [
+        {
+          "wr_min": 70,
+          "xgb": 57,
+          "lgb": 57,
+          "count": 11,
+          "wr": 72.7
+        },
+        {
+          "wr_min": 72,
+          "xgb": 57,
+          "lgb": 57,
+          "count": 11,
+          "wr": 72.7
+        },
+        {
+          "wr_min": 74,
+          "xgb": 58,
+          "lgb": 57,
+          "count": 5,
+          "wr": 80.0
+        },
+        {
+          "wr_min": 76,
+          "xgb": 58,
+          "lgb": 57,
+          "count": 5,
+          "wr": 80.0
+        },
+        {
+          "wr_min": 78,
+          "xgb": 58,
+          "lgb": 57,
+          "count": 5,
+          "wr": 80.0
+        },
+        {
+          "wr_min": 80,
+          "xgb": 58,
+          "lgb": 57,
+          "count": 5,
+          "wr": 80.0
+        }
+      ],
+      "edev_max": [
+        {
+          "wr_min": 70,
+          "xgb": 60,
+          "lgb": 55,
+          "count": 7,
+          "wr": 71.4
+        },
+        {
+          "wr_min": 72,
+          "xgb": 61,
+          "lgb": 55,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 74,
+          "xgb": 61,
+          "lgb": 55,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 76,
+          "xgb": 61,
+          "lgb": 55,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 78,
+          "xgb": 61,
+          "lgb": 55,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 80,
+          "xgb": 61,
+          "lgb": 55,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 82,
+          "xgb": 61,
+          "lgb": 55,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 84,
+          "xgb": 61,
+          "lgb": 55,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 86,
+          "xgb": 61,
+          "lgb": 55,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 88,
+          "xgb": 61,
+          "lgb": 55,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 90,
+          "xgb": 61,
+          "lgb": 55,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 92,
+          "xgb": 61,
+          "lgb": 55,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 94,
+          "xgb": 61,
+          "lgb": 55,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 96,
+          "xgb": 61,
+          "lgb": 55,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 98,
+          "xgb": 61,
+          "lgb": 55,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 100,
+          "xgb": 61,
+          "lgb": 55,
+          "count": 3,
+          "wr": 100.0
+        }
+      ],
+      "edev_sum": [
+        {
+          "wr_min": 70,
+          "xgb": 56,
+          "lgb": 56,
+          "count": 20,
+          "wr": 70.0
+        },
+        {
+          "wr_min": 72,
+          "xgb": 58,
+          "lgb": 55,
+          "count": 4,
+          "wr": 75.0
+        },
+        {
+          "wr_min": 74,
+          "xgb": 58,
+          "lgb": 55,
+          "count": 4,
+          "wr": 75.0
+        }
+      ],
+      "eslope_20": [
+        {
+          "wr_min": 70,
+          "xgb": 57,
+          "lgb": 58,
+          "count": 17,
+          "wr": 70.6
+        },
+        {
+          "wr_min": 72,
+          "xgb": 61,
+          "lgb": 57,
+          "count": 4,
+          "wr": 75.0
+        },
+        {
+          "wr_min": 74,
+          "xgb": 61,
+          "lgb": 57,
+          "count": 4,
+          "wr": 75.0
+        }
+      ],
+      "eslope_all": [
+        {
+          "wr_min": 70,
+          "xgb": 60,
+          "lgb": 57,
+          "count": 10,
+          "wr": 70.0
+        }
+      ],
+      "esnap_fast": [
+        {
+          "wr_min": 70,
+          "xgb": 55,
+          "lgb": 57,
+          "count": 28,
+          "wr": 78.6
+        },
+        {
+          "wr_min": 72,
+          "xgb": 55,
+          "lgb": 57,
+          "count": 28,
+          "wr": 78.6
+        },
+        {
+          "wr_min": 74,
+          "xgb": 55,
+          "lgb": 57,
+          "count": 28,
+          "wr": 78.6
+        },
+        {
+          "wr_min": 76,
+          "xgb": 55,
+          "lgb": 57,
+          "count": 28,
+          "wr": 78.6
+        },
+        {
+          "wr_min": 78,
+          "xgb": 55,
+          "lgb": 57,
+          "count": 28,
+          "wr": 78.6
+        },
+        {
+          "wr_min": 80,
+          "xgb": 57,
+          "lgb": 57,
+          "count": 19,
+          "wr": 84.2
+        },
+        {
+          "wr_min": 82,
+          "xgb": 57,
+          "lgb": 57,
+          "count": 19,
+          "wr": 84.2
+        },
+        {
+          "wr_min": 84,
+          "xgb": 57,
+          "lgb": 57,
+          "count": 19,
+          "wr": 84.2
+        }
+      ],
+      "esnap_x50": [
+        {
+          "wr_min": 70,
+          "xgb": 57,
+          "lgb": 57,
+          "count": 15,
+          "wr": 73.3
+        },
+        {
+          "wr_min": 72,
+          "xgb": 57,
+          "lgb": 57,
+          "count": 15,
+          "wr": 73.3
+        },
+        {
+          "wr_min": 74,
+          "xgb": 59,
+          "lgb": 55,
+          "count": 8,
+          "wr": 75.0
+        }
+      ],
+      "espread_clip": [
+        {
+          "wr_min": 70,
+          "xgb": 57,
+          "lgb": 59,
+          "count": 4,
+          "wr": 75.0
+        },
+        {
+          "wr_min": 72,
+          "xgb": 57,
+          "lgb": 59,
+          "count": 4,
+          "wr": 75.0
+        },
+        {
+          "wr_min": 74,
+          "xgb": 57,
+          "lgb": 59,
+          "count": 4,
+          "wr": 75.0
+        }
+      ],
+      "espread_raw": [
+        {
+          "wr_min": 70,
+          "xgb": 55,
+          "lgb": 60,
+          "count": 4,
+          "wr": 75.0
+        },
+        {
+          "wr_min": 72,
+          "xgb": 55,
+          "lgb": 60,
+          "count": 4,
+          "wr": 75.0
+        },
+        {
+          "wr_min": 74,
+          "xgb": 55,
+          "lgb": 60,
+          "count": 4,
+          "wr": 75.0
+        },
+        {
+          "wr_min": 76,
+          "xgb": 59,
+          "lgb": 59,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 78,
+          "xgb": 59,
+          "lgb": 59,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 80,
+          "xgb": 59,
+          "lgb": 59,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 82,
+          "xgb": 59,
+          "lgb": 59,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 84,
+          "xgb": 59,
+          "lgb": 59,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 86,
+          "xgb": 59,
+          "lgb": 59,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 88,
+          "xgb": 59,
+          "lgb": 59,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 90,
+          "xgb": 59,
+          "lgb": 59,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 92,
+          "xgb": 59,
+          "lgb": 59,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 94,
+          "xgb": 59,
+          "lgb": 59,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 96,
+          "xgb": 59,
+          "lgb": 59,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 98,
+          "xgb": 59,
+          "lgb": 59,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 100,
+          "xgb": 59,
+          "lgb": 59,
+          "count": 4,
+          "wr": 100.0
+        }
+      ],
+      "espread_sqrt": [
+        {
+          "wr_min": 70,
+          "xgb": 55,
+          "lgb": 58,
+          "count": 17,
+          "wr": 70.6
+        },
+        {
+          "wr_min": 72,
+          "xgb": 58,
+          "lgb": 57,
+          "count": 12,
+          "wr": 75.0
+        },
+        {
+          "wr_min": 74,
+          "xgb": 58,
+          "lgb": 57,
+          "count": 12,
+          "wr": 75.0
+        },
+        {
+          "wr_min": 76,
+          "xgb": 58,
+          "lgb": 58,
+          "count": 9,
+          "wr": 77.8
+        },
+        {
+          "wr_min": 78,
+          "xgb": 59,
+          "lgb": 55,
+          "count": 6,
+          "wr": 83.3
+        },
+        {
+          "wr_min": 80,
+          "xgb": 59,
+          "lgb": 55,
+          "count": 6,
+          "wr": 83.3
+        },
+        {
+          "wr_min": 82,
+          "xgb": 59,
+          "lgb": 55,
+          "count": 6,
+          "wr": 83.3
+        },
+        {
+          "wr_min": 84,
+          "xgb": 59,
+          "lgb": 57,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 86,
+          "xgb": 59,
+          "lgb": 57,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 88,
+          "xgb": 59,
+          "lgb": 57,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 90,
+          "xgb": 59,
+          "lgb": 57,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 92,
+          "xgb": 59,
+          "lgb": 57,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 94,
+          "xgb": 59,
+          "lgb": 57,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 96,
+          "xgb": 59,
+          "lgb": 57,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 98,
+          "xgb": 59,
+          "lgb": 57,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 100,
+          "xgb": 59,
+          "lgb": 57,
+          "count": 4,
+          "wr": 100.0
+        }
+      ],
+      "mainv_clip": [
+        {
+          "wr_min": 70,
+          "xgb": 55,
+          "lgb": 57,
+          "count": 17,
+          "wr": 70.6
+        },
+        {
+          "wr_min": 72,
+          "xgb": 58,
+          "lgb": 57,
+          "count": 14,
+          "wr": 78.6
+        },
+        {
+          "wr_min": 74,
+          "xgb": 58,
+          "lgb": 57,
+          "count": 14,
+          "wr": 78.6
+        },
+        {
+          "wr_min": 76,
+          "xgb": 58,
+          "lgb": 57,
+          "count": 14,
+          "wr": 78.6
+        },
+        {
+          "wr_min": 78,
+          "xgb": 58,
+          "lgb": 57,
+          "count": 14,
+          "wr": 78.6
+        }
+      ],
+      "mainv_raw": [
+        {
+          "wr_min": 70,
+          "xgb": 60,
+          "lgb": 55,
+          "count": 12,
+          "wr": 83.3
+        },
+        {
+          "wr_min": 72,
+          "xgb": 60,
+          "lgb": 55,
+          "count": 12,
+          "wr": 83.3
+        },
+        {
+          "wr_min": 74,
+          "xgb": 60,
+          "lgb": 55,
+          "count": 12,
+          "wr": 83.3
+        },
+        {
+          "wr_min": 76,
+          "xgb": 60,
+          "lgb": 55,
+          "count": 12,
+          "wr": 83.3
+        },
+        {
+          "wr_min": 78,
+          "xgb": 60,
+          "lgb": 55,
+          "count": 12,
+          "wr": 83.3
+        },
+        {
+          "wr_min": 80,
+          "xgb": 60,
+          "lgb": 55,
+          "count": 12,
+          "wr": 83.3
+        },
+        {
+          "wr_min": 82,
+          "xgb": 60,
+          "lgb": 55,
+          "count": 12,
+          "wr": 83.3
+        }
+      ],
+      "mainv_sqrt": [
+        {
+          "wr_min": 70,
+          "xgb": 55,
+          "lgb": 60,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 72,
+          "xgb": 55,
+          "lgb": 60,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 74,
+          "xgb": 55,
+          "lgb": 60,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 76,
+          "xgb": 55,
+          "lgb": 60,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 78,
+          "xgb": 55,
+          "lgb": 60,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 80,
+          "xgb": 55,
+          "lgb": 60,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 82,
+          "xgb": 55,
+          "lgb": 60,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 84,
+          "xgb": 55,
+          "lgb": 60,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 86,
+          "xgb": 55,
+          "lgb": 60,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 88,
+          "xgb": 55,
+          "lgb": 60,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 90,
+          "xgb": 55,
+          "lgb": 60,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 92,
+          "xgb": 55,
+          "lgb": 60,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 94,
+          "xgb": 55,
+          "lgb": 60,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 96,
+          "xgb": 55,
+          "lgb": 60,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 98,
+          "xgb": 55,
+          "lgb": 60,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 100,
+          "xgb": 55,
+          "lgb": 60,
+          "count": 4,
+          "wr": 100.0
+        }
+      ],
+      "move_0.01": [
+        {
+          "wr_min": 70,
+          "xgb": 65,
+          "lgb": 68,
+          "count": 30,
+          "wr": 70.0
+        },
+        {
+          "wr_min": 72,
+          "xgb": 67,
+          "lgb": 68,
+          "count": 25,
+          "wr": 72.0
+        },
+        {
+          "wr_min": 74,
+          "xgb": 65,
+          "lgb": 69,
+          "count": 21,
+          "wr": 76.2
+        },
+        {
+          "wr_min": 76,
+          "xgb": 65,
+          "lgb": 69,
+          "count": 21,
+          "wr": 76.2
+        },
+        {
+          "wr_min": 78,
+          "xgb": 55,
+          "lgb": 71,
+          "count": 10,
+          "wr": 80.0
+        },
+        {
+          "wr_min": 80,
+          "xgb": 55,
+          "lgb": 71,
+          "count": 10,
+          "wr": 80.0
+        },
+        {
+          "wr_min": 82,
+          "xgb": 55,
+          "lgb": 72,
+          "count": 7,
+          "wr": 85.7
+        },
+        {
+          "wr_min": 84,
+          "xgb": 55,
+          "lgb": 72,
+          "count": 7,
+          "wr": 85.7
+        },
+        {
+          "wr_min": 86,
+          "xgb": 70,
+          "lgb": 55,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 88,
+          "xgb": 70,
+          "lgb": 55,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 90,
+          "xgb": 70,
+          "lgb": 55,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 92,
+          "xgb": 70,
+          "lgb": 55,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 94,
+          "xgb": 70,
+          "lgb": 55,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 96,
+          "xgb": 70,
+          "lgb": 55,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 98,
+          "xgb": 70,
+          "lgb": 55,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 100,
+          "xgb": 70,
+          "lgb": 55,
+          "count": 5,
+          "wr": 100.0
+        }
+      ],
+      "move_0.05": [
+        {
+          "wr_min": 70,
+          "xgb": 62,
+          "lgb": 68,
+          "count": 30,
+          "wr": 70.0
+        },
+        {
+          "wr_min": 72,
+          "xgb": 66,
+          "lgb": 68,
+          "count": 18,
+          "wr": 72.2
+        },
+        {
+          "wr_min": 74,
+          "xgb": 62,
+          "lgb": 71,
+          "count": 13,
+          "wr": 76.9
+        },
+        {
+          "wr_min": 76,
+          "xgb": 62,
+          "lgb": 71,
+          "count": 13,
+          "wr": 76.9
+        },
+        {
+          "wr_min": 78,
+          "xgb": 65,
+          "lgb": 71,
+          "count": 9,
+          "wr": 88.9
+        },
+        {
+          "wr_min": 80,
+          "xgb": 65,
+          "lgb": 71,
+          "count": 9,
+          "wr": 88.9
+        },
+        {
+          "wr_min": 82,
+          "xgb": 65,
+          "lgb": 71,
+          "count": 9,
+          "wr": 88.9
+        },
+        {
+          "wr_min": 84,
+          "xgb": 65,
+          "lgb": 71,
+          "count": 9,
+          "wr": 88.9
+        },
+        {
+          "wr_min": 86,
+          "xgb": 65,
+          "lgb": 71,
+          "count": 9,
+          "wr": 88.9
+        },
+        {
+          "wr_min": 88,
+          "xgb": 65,
+          "lgb": 71,
+          "count": 9,
+          "wr": 88.9
+        }
+      ],
+      "move_0.1": [
+        {
+          "wr_min": 70,
+          "xgb": 56,
+          "lgb": 58,
+          "count": 17,
+          "wr": 70.6
+        },
+        {
+          "wr_min": 72,
+          "xgb": 57,
+          "lgb": 58,
+          "count": 12,
+          "wr": 75.0
+        },
+        {
+          "wr_min": 74,
+          "xgb": 57,
+          "lgb": 58,
+          "count": 12,
+          "wr": 75.0
+        },
+        {
+          "wr_min": 76,
+          "xgb": 55,
+          "lgb": 59,
+          "count": 5,
+          "wr": 80.0
+        },
+        {
+          "wr_min": 78,
+          "xgb": 55,
+          "lgb": 59,
+          "count": 5,
+          "wr": 80.0
+        },
+        {
+          "wr_min": 80,
+          "xgb": 55,
+          "lgb": 59,
+          "count": 5,
+          "wr": 80.0
+        }
+      ],
+      "move_0.2": [
+        {
+          "wr_min": 70,
+          "xgb": 58,
+          "lgb": 59,
+          "count": 14,
+          "wr": 71.4
+        },
+        {
+          "wr_min": 72,
+          "xgb": 59,
+          "lgb": 59,
+          "count": 8,
+          "wr": 75.0
+        },
+        {
+          "wr_min": 74,
+          "xgb": 59,
+          "lgb": 59,
+          "count": 8,
+          "wr": 75.0
+        },
+        {
+          "wr_min": 76,
+          "xgb": 58,
+          "lgb": 60,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 78,
+          "xgb": 58,
+          "lgb": 60,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 80,
+          "xgb": 58,
+          "lgb": 60,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 82,
+          "xgb": 58,
+          "lgb": 60,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 84,
+          "xgb": 58,
+          "lgb": 60,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 86,
+          "xgb": 58,
+          "lgb": 60,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 88,
+          "xgb": 58,
+          "lgb": 60,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 90,
+          "xgb": 58,
+          "lgb": 60,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 92,
+          "xgb": 58,
+          "lgb": 60,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 94,
+          "xgb": 58,
+          "lgb": 60,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 96,
+          "xgb": 58,
+          "lgb": 60,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 98,
+          "xgb": 58,
+          "lgb": 60,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 100,
+          "xgb": 58,
+          "lgb": 60,
+          "count": 5,
+          "wr": 100.0
+        }
+      ],
+      "move_0.5": [
+        {
+          "wr_min": 70,
+          "xgb": 59,
+          "lgb": 58,
+          "count": 7,
+          "wr": 71.4
+        },
+        {
+          "wr_min": 72,
+          "xgb": 55,
+          "lgb": 59,
+          "count": 6,
+          "wr": 83.3
+        },
+        {
+          "wr_min": 74,
+          "xgb": 55,
+          "lgb": 59,
+          "count": 6,
+          "wr": 83.3
+        },
+        {
+          "wr_min": 76,
+          "xgb": 55,
+          "lgb": 59,
+          "count": 6,
+          "wr": 83.3
+        },
+        {
+          "wr_min": 78,
+          "xgb": 55,
+          "lgb": 59,
+          "count": 6,
+          "wr": 83.3
+        },
+        {
+          "wr_min": 80,
+          "xgb": 55,
+          "lgb": 59,
+          "count": 6,
+          "wr": 83.3
+        },
+        {
+          "wr_min": 82,
+          "xgb": 55,
+          "lgb": 59,
+          "count": 6,
+          "wr": 83.3
+        }
+      ],
+      "oversold_inv_clip": [
+        {
+          "wr_min": 70,
+          "xgb": 61,
+          "lgb": 68,
+          "count": 30,
+          "wr": 70.0
+        },
+        {
+          "wr_min": 72,
+          "xgb": 64,
+          "lgb": 68,
+          "count": 25,
+          "wr": 72.0
+        },
+        {
+          "wr_min": 74,
+          "xgb": 64,
+          "lgb": 69,
+          "count": 20,
+          "wr": 75.0
+        },
+        {
+          "wr_min": 76,
+          "xgb": 66,
+          "lgb": 69,
+          "count": 18,
+          "wr": 77.8
+        },
+        {
+          "wr_min": 78,
+          "xgb": 71,
+          "lgb": 71,
+          "count": 10,
+          "wr": 80.0
+        },
+        {
+          "wr_min": 80,
+          "xgb": 71,
+          "lgb": 71,
+          "count": 10,
+          "wr": 80.0
+        },
+        {
+          "wr_min": 82,
+          "xgb": 55,
+          "lgb": 74,
+          "count": 7,
+          "wr": 85.7
+        },
+        {
+          "wr_min": 84,
+          "xgb": 55,
+          "lgb": 74,
+          "count": 7,
+          "wr": 85.7
+        }
+      ],
+      "oversold_inv_sq": [
+        {
+          "wr_min": 70,
+          "xgb": 55,
+          "lgb": 57,
+          "count": 32,
+          "wr": 71.9
+        },
+        {
+          "wr_min": 72,
+          "xgb": 57,
+          "lgb": 55,
+          "count": 4,
+          "wr": 75.0
+        },
+        {
+          "wr_min": 74,
+          "xgb": 57,
+          "lgb": 55,
+          "count": 4,
+          "wr": 75.0
+        }
+      ],
+      "oversold_inv_sqrt": [
+        {
+          "wr_min": 70,
+          "xgb": 58,
+          "lgb": 57,
+          "count": 20,
+          "wr": 70.0
+        }
+      ],
+      "rsi7slope_abs": [
+        {
+          "wr_min": 70,
+          "xgb": 56,
+          "lgb": 55,
+          "count": 12,
+          "wr": 75.0
+        },
+        {
+          "wr_min": 72,
+          "xgb": 56,
+          "lgb": 55,
+          "count": 12,
+          "wr": 75.0
+        },
+        {
+          "wr_min": 74,
+          "xgb": 56,
+          "lgb": 55,
+          "count": 12,
+          "wr": 75.0
+        },
+        {
+          "wr_min": 76,
+          "xgb": 57,
+          "lgb": 55,
+          "count": 9,
+          "wr": 77.8
+        }
+      ],
+      "rsi7slope_clip": [
+        {
+          "wr_min": 70,
+          "xgb": 64,
+          "lgb": 65,
+          "count": 47,
+          "wr": 70.2
+        },
+        {
+          "wr_min": 72,
+          "xgb": 64,
+          "lgb": 66,
+          "count": 36,
+          "wr": 72.2
+        },
+        {
+          "wr_min": 74,
+          "xgb": 62,
+          "lgb": 68,
+          "count": 28,
+          "wr": 75.0
+        },
+        {
+          "wr_min": 76,
+          "xgb": 64,
+          "lgb": 68,
+          "count": 27,
+          "wr": 77.8
+        },
+        {
+          "wr_min": 78,
+          "xgb": 66,
+          "lgb": 68,
+          "count": 23,
+          "wr": 78.3
+        },
+        {
+          "wr_min": 80,
+          "xgb": 55,
+          "lgb": 71,
+          "count": 13,
+          "wr": 84.6
+        },
+        {
+          "wr_min": 82,
+          "xgb": 55,
+          "lgb": 71,
+          "count": 13,
+          "wr": 84.6
+        },
+        {
+          "wr_min": 84,
+          "xgb": 55,
+          "lgb": 71,
+          "count": 13,
+          "wr": 84.6
+        },
+        {
+          "wr_min": 86,
+          "xgb": 66,
+          "lgb": 71,
+          "count": 11,
+          "wr": 90.9
+        },
+        {
+          "wr_min": 88,
+          "xgb": 66,
+          "lgb": 71,
+          "count": 11,
+          "wr": 90.9
+        },
+        {
+          "wr_min": 90,
+          "xgb": 66,
+          "lgb": 71,
+          "count": 11,
+          "wr": 90.9
+        },
+        {
+          "wr_min": 92,
+          "xgb": 55,
+          "lgb": 74,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 94,
+          "xgb": 55,
+          "lgb": 74,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 96,
+          "xgb": 55,
+          "lgb": 74,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 98,
+          "xgb": 55,
+          "lgb": 74,
+          "count": 3,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 100,
+          "xgb": 55,
+          "lgb": 74,
+          "count": 3,
+          "wr": 100.0
+        }
+      ],
+      "rsi7slope_sqrt": [
+        {
+          "wr_min": 70,
+          "xgb": 57,
+          "lgb": 55,
+          "count": 10,
+          "wr": 80.0
+        },
+        {
+          "wr_min": 72,
+          "xgb": 57,
+          "lgb": 55,
+          "count": 10,
+          "wr": 80.0
+        },
+        {
+          "wr_min": 74,
+          "xgb": 57,
+          "lgb": 55,
+          "count": 10,
+          "wr": 80.0
+        },
+        {
+          "wr_min": 76,
+          "xgb": 57,
+          "lgb": 55,
+          "count": 10,
+          "wr": 80.0
+        },
+        {
+          "wr_min": 78,
+          "xgb": 57,
+          "lgb": 55,
+          "count": 10,
+          "wr": 80.0
+        },
+        {
+          "wr_min": 80,
+          "xgb": 57,
+          "lgb": 55,
+          "count": 10,
+          "wr": 80.0
+        },
+        {
+          "wr_min": 82,
+          "xgb": 57,
+          "lgb": 56,
+          "count": 8,
+          "wr": 87.5
+        },
+        {
+          "wr_min": 84,
+          "xgb": 57,
+          "lgb": 56,
+          "count": 8,
+          "wr": 87.5
+        },
+        {
+          "wr_min": 86,
+          "xgb": 57,
+          "lgb": 56,
+          "count": 8,
+          "wr": 87.5
+        },
+        {
+          "wr_min": 88,
+          "xgb": 58,
+          "lgb": 55,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 90,
+          "xgb": 58,
+          "lgb": 55,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 92,
+          "xgb": 58,
+          "lgb": 55,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 94,
+          "xgb": 58,
+          "lgb": 55,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 96,
+          "xgb": 58,
+          "lgb": 55,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 98,
+          "xgb": 58,
+          "lgb": 55,
+          "count": 4,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 100,
+          "xgb": 58,
+          "lgb": 55,
+          "count": 4,
+          "wr": 100.0
+        }
+      ],
+      "streak_log": [
+        {
+          "wr_min": 70,
+          "xgb": 55,
+          "lgb": 58,
+          "count": 8,
+          "wr": 75.0
+        },
+        {
+          "wr_min": 72,
+          "xgb": 55,
+          "lgb": 58,
+          "count": 8,
+          "wr": 75.0
+        },
+        {
+          "wr_min": 74,
+          "xgb": 55,
+          "lgb": 58,
+          "count": 8,
+          "wr": 75.0
+        }
+      ],
+      "volratio_clip": [
+        {
+          "wr_min": 70,
+          "xgb": 55,
+          "lgb": 59,
+          "count": 9,
+          "wr": 77.8
+        },
+        {
+          "wr_min": 72,
+          "xgb": 55,
+          "lgb": 59,
+          "count": 9,
+          "wr": 77.8
+        },
+        {
+          "wr_min": 74,
+          "xgb": 55,
+          "lgb": 59,
+          "count": 9,
+          "wr": 77.8
+        },
+        {
+          "wr_min": 76,
+          "xgb": 55,
+          "lgb": 59,
+          "count": 9,
+          "wr": 77.8
+        },
+        {
+          "wr_min": 78,
+          "xgb": 61,
+          "lgb": 55,
+          "count": 7,
+          "wr": 85.7
+        },
+        {
+          "wr_min": 80,
+          "xgb": 61,
+          "lgb": 55,
+          "count": 7,
+          "wr": 85.7
+        },
+        {
+          "wr_min": 82,
+          "xgb": 61,
+          "lgb": 55,
+          "count": 7,
+          "wr": 85.7
+        },
+        {
+          "wr_min": 84,
+          "xgb": 61,
+          "lgb": 55,
+          "count": 7,
+          "wr": 85.7
+        },
+        {
+          "wr_min": 86,
+          "xgb": 61,
+          "lgb": 56,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 88,
+          "xgb": 61,
+          "lgb": 56,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 90,
+          "xgb": 61,
+          "lgb": 56,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 92,
+          "xgb": 61,
+          "lgb": 56,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 94,
+          "xgb": 61,
+          "lgb": 56,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 96,
+          "xgb": 61,
+          "lgb": 56,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 98,
+          "xgb": 61,
+          "lgb": 56,
+          "count": 5,
+          "wr": 100.0
+        },
+        {
+          "wr_min": 100,
+          "xgb": 61,
+          "lgb": 56,
+          "count": 5,
+          "wr": 100.0
+        }
+      ],
+      "volratio_raw": [
+        {
+          "wr_min": 70,
+          "xgb": 59,
+          "lgb": 58,
+          "count": 14,
+          "wr": 71.4
+        },
+        {
+          "wr_min": 72,
+          "xgb": 55,
+          "lgb": 59,
+          "count": 12,
+          "wr": 75.0
+        },
+        {
+          "wr_min": 74,
+          "xgb": 55,
+          "lgb": 59,
+          "count": 12,
+          "wr": 75.0
+        },
+        {
+          "wr_min": 76,
+          "xgb": 55,
+          "lgb": 60,
+          "count": 5,
+          "wr": 80.0
+        },
+        {
+          "wr_min": 78,
+          "xgb": 55,
+          "lgb": 60,
+          "count": 5,
+          "wr": 80.0
+        },
+        {
+          "wr_min": 80,
+          "xgb": 55,
+          "lgb": 60,
+          "count": 5,
+          "wr": 80.0
+        }
+      ],
+      "wick_upper_clip1": [
+        {
+          "wr_min": 70,
+          "xgb": 56,
+          "lgb": 55,
+          "count": 8,
+          "wr": 75.0
+        },
+        {
+          "wr_min": 72,
+          "xgb": 56,
+          "lgb": 55,
+          "count": 8,
+          "wr": 75.0
+        },
+        {
+          "wr_min": 74,
+          "xgb": 56,
+          "lgb": 55,
+          "count": 8,
+          "wr": 75.0
+        }
+      ]
+    }
+  },
+  "sell": {
+    "up": {},
+    "down": {}
+  }
+}
